@@ -1,6 +1,7 @@
 # Crystal E. Clements
 * cec23@uw.edu
 * https://orcid.org/0000-0001-5000-282X  
+* https://www.wikidata.org/wiki/User:Clements.UWLib
 * Cataloging and Metadata Services <br>
   University of Washington Libraries <br>
   Box 352900 <br>
