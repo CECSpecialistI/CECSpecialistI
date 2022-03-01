@@ -137,6 +137,10 @@ Create, update, and digitize legacy print and EAD finding aids using XML
 * Tools and Workflows for Enhancing Discoverability of Linked Data and Other Library Resources on the Web. CITS-IG Roundtable, ALA Midwinter Conference, January 2019 (co-facilitated with Benjamin Riesenberg and Theo Gerontakos)
 * Linked Open Data Production and Publishing Workflow at the University of Washington Libraries. TSWE-IG Meeting, ALA Midwinter Conference, January 2019 (co-presented with Benjamin Riesenberg and Theo Gerontakos)
 ## Professional Training
+### Rare Books Cataloging
+* MCLS
+* 2022
+* Virtual workshop series focused on DCRM(B) descriptions of books from the hand-press period. Taught by Tad Boehmer
 ### RDA Lab Series
 * ALA
 * 2020
