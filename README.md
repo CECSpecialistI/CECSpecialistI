@@ -200,6 +200,8 @@ Create, update, and digitize legacy print and EAD finding aids using XML
 > * 2019
 * University of Washington SPARQL Study Group
 > * December 2017 - September 2019
+## Honors and Awards
+* ACRL Rare Books & Manuscripts Section Virtual Conference Registration Scholarship, 2022
 ## Languages
 * Native: English
 * Intermediate/Advanced: Spanish
