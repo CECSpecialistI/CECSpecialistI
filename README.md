@@ -2,6 +2,7 @@
 * cec23@uw.edu
 * https://orcid.org/0000-0001-5000-282X  
 * https://www.wikidata.org/wiki/User:Clements.UWLib
+* https://twitter.com/CrystalCatalogs
 * Cataloging and Metadata Services <br>
   University of Washington Libraries <br>
   Box 352900 <br>
@@ -9,62 +10,62 @@
 * pronouns: she/her/they/them
 ## Education
 * MS, University of Washington, Library and Information Science	, June 2014
-> * Independent Study, Advanced Cataloging, Allyson Carlyle, Sandra Kroupa, Mary Mathiason
-> * Directed Fieldwork, Book Arts Cataloging, Allyson Carlyle, Sandra Kroupa, Mary Mathiason
-> * Committees 
-> > * iEracism (Logistics Coordinator)
-> > * iQueeries (Publicity Officer)
-> * Degree Research Project, Social Inclusion in Classification Theory and Practice, Joe Tennis
+    * Independent Study, Advanced Cataloging, Allyson Carlyle, Sandra Kroupa, Mary Mathiason
+    * Directed Fieldwork, Book Arts Cataloging, Allyson Carlyle, Sandra Kroupa, Mary Mathiason
+    * Committees 
+        * iEracism (Logistics Coordinator)
+        * iQueeries (Publicity Officer)
+    * Degree Research Project, Social Inclusion in Classification Theory and Practice, Joe Tennis
 * BA, University of Washington, Comparative Literature & Cinema Studies	June 2009
-> * Study Abroad, Queen's University Belfast, Revenge and Reconciliation in Northern Ireland, George Behlmer
+    * Study Abroad, Queen's University Belfast, Revenge and Reconciliation in Northern Ireland, George Behlmer
 ## Experience
 ### Science Cataloger, University of Washington Libraries
 * November 2017 - Present
 * Duties:
-> * Perform bibliographic description, subject and genre/form analysis, classification, and authority control for special collections monographs and cartographic materials, electronic theses and dissertations, atlases, maps, and science materials using MARC21 in the OCLC Connexion environment, utilizing controlled vocabularies and thesauri including:
-> > * Resource Description & Access (RDA)
-> > * Descriptive Cataloging of Rare Materials (Books) (DCRM(B))
-> > * Descriptive Cataloging of Rare Materials (Cartographic) (DCRM(C))
-> > * Describing Archives: A Content Standard (DACS)
-> > * LC-PCC Policy Statements 
-> > * Program for Cooperative Cataloging (PCC) Guidelines
-> > * Library of Congress Classification (LCC)
-> > * Library of Congress Subject Headings (LCSH)
-> > * Library of Congress Demographic Group Terms (LCDGT) 
-> > * Library of Congress Genre/Form Terms (LCGFT)
-> > * ACRL Rare Books and Manuscripts Section (RBMS) vocabularies
-> > * Getty Art & Architecture Thesaurus 
-> * Actively monitor and contribute to national developments concerning the cataloging of special collections, archival, rare, cartographic, monographic, and electronic materials
-> * Contribute headings to the national authority file and Library of Congress Classification through Name Authority Cooperative Program (NACO) and Subject Authority Cooperative Program (SACO) (independent on personal name headings)
-> * Participate in the PCC Monographic Bibliographic Record Cooperative Program (BIBCO) by enhancing full level BIBCO records in OCLC
-> * As a member of the Metadata Implementation Group, review published metadata across the UW Libraries' digital-collections platforms and institutional repositories, provide feedback on proposals for describing new collections, and help articulate policies for non-MARC metadata practices at the UW Libraries
-> * Participate in work, projects, and meetings in Collections & Content Portfolio, Cataloging and Metadata Services Department, Monographic Cataloging Unit, Metadata and Cataloging Initiatives Unit, and Special Collections
-> * Recruit and train student employees in Metadata and Cataloging Initiatives Unit
-> * Participate in the writing of grant proposals and in grant-funded projects
-> * Pursue opportunities for professional growth aligned with professional interests and goals
-> * Follow trends in the profession and continually update knowledge of issues and current developments in cataloging and metadata services
-> * Contribute to the UW Libraries and the profession through productive service in professional associations, consortial activities, and University Libraries committees and task forces
-> * In consultation with selectors, other catalogers, and stakeholders, establish cataloging procedures for materials as needed and coordinate record maintenance projects.
-> * Author and update cataloging and linked data procedures and documentation using Plone
-> * Manage and participate in international metadata and linked data projects as a member of the Linked Data Team
-> * Attend Special Collections Catalogers’ meetings
-> * Participate in OCLC Member Merge program to merge duplicate records in the OCLC environment
+    * Perform bibliographic description, subject and genre/form analysis, classification, and authority control for special collections monographs and cartographic materials, electronic theses and dissertations, atlases, maps, and science materials using MARC21 in the OCLC Connexion environment, utilizing controlled vocabularies and thesauri including:
+        * Resource Description & Access (RDA)
+        * Descriptive Cataloging of Rare Materials (Books) (DCRM(B))
+        * Descriptive Cataloging of Rare Materials (Cartographic) (DCRM(C))
+        * Describing Archives: A Content Standard (DACS)
+        * LC-PCC Policy Statements 
+        * Program for Cooperative Cataloging (PCC) Guidelines
+        * Library of Congress Classification (LCC)
+        * Library of Congress Subject Headings (LCSH)
+        * Library of Congress Demographic Group Terms (LCDGT) 
+        * Library of Congress Genre/Form Terms (LCGFT)
+        * ACRL Rare Books and Manuscripts Section (RBMS) vocabularies
+        * Getty Art & Architecture Thesaurus 
+    * Actively monitor and contribute to national developments concerning the cataloging of special collections, archival, rare, cartographic, monographic, and electronic materials
+    * Contribute headings to the national authority file and Library of Congress Classification through Name Authority Cooperative Program (NACO) and Subject Authority Cooperative Program (SACO) (independent on personal name headings)
+    * Participate in the PCC Monographic Bibliographic Record Cooperative Program (BIBCO) by enhancing full level BIBCO records in OCLC
+    * As a member of the Metadata Implementation Group, review published metadata across the UW Libraries' digital-collections platforms and institutional repositories, provide feedback on proposals for describing new collections, and help articulate policies for non-MARC metadata practices at the UW Libraries
+    * Participate in work, projects, and meetings in Collections & Content Portfolio, Cataloging and Metadata Services Department, Monographic Cataloging Unit, Metadata and Cataloging Initiatives Unit, and Special Collections
+    * Recruit and train student employees in Metadata and Cataloging Initiatives Unit
+    * Participate in the writing of grant proposals and in grant-funded projects
+    * Pursue opportunities for professional growth aligned with professional interests and goals
+    * Follow trends in the profession and continually update knowledge of issues and current developments in cataloging and metadata services
+    * Contribute to the UW Libraries and the profession through productive service in professional associations, consortial activities, and University Libraries committees and task forces
+    * In consultation with selectors, other catalogers, and stakeholders, establish cataloging procedures for materials as needed and coordinate record maintenance projects.
+    * Author and update cataloging and linked data procedures and documentation using Plone
+    * Manage and participate in international metadata and linked data projects as a member of the Linked Data Team
+    * Attend Special Collections Catalogers’ meetings
+    * Participate in OCLC Member Merge program to merge duplicate records in the OCLC environment
 ### Rare Book & Book Arts Cataloger, University of Washington Libraries
 * July 2015 - January 2018
 * Duties:
-> * Perform original and complex copy cataloging (bibliographic description, subject and genre/form analysis, classification, and authority control) of special collections monographs and cartographic materials, atlases, maps, and science materials using standards, technologies, and thesauri listed above
-> * Actively monitor national developments concerning the cataloging of special collections, archival, cartographic, and monographic materials
-> * Contribute headings to the national authority file and Library of Congress Classification through NACO and SACO 
-> * In consultation with selectors, other catalogers, and stakeholders, establish cataloging procedures for materials as needed and coordinate record maintenance projects. Author and update cataloging procedures using Plone
-> * Attend Special Collections Catalogers’ meetings
+    * Perform original and complex copy cataloging (bibliographic description, subject and genre/form analysis, classification, and authority control) of special collections monographs and cartographic materials, atlases, maps, and science materials using standards, technologies, and thesauri listed above
+    * Actively monitor national developments concerning the cataloging of special collections, archival, cartographic, and monographic materials
+    * Contribute headings to the national authority file and Library of Congress Classification through NACO and SACO 
+    * In consultation with selectors, other catalogers, and stakeholders, establish cataloging procedures for materials as needed and coordinate record maintenance projects. Author and update cataloging procedures using Plone
+    * Attend Special Collections Catalogers’ meetings
 ### Rare Book & Book Arts Project Cataloger, University of Washington Libraries
 * June 2014 - July 2015
 * Duties:
-> * Perform original and complex copy cataloging (bibliographic description, subject and genre/form analysis, classification, and authority control) of rare books and artists’ books using standards, technologies, and thesauri listed above
+Perform original and complex copy cataloging (bibliographic description, subject and genre/form analysis, classification, and authority control) of rare books and artists’ books using standards, technologies, and thesauri listed above
 ### Project Archivist, International Brotherhood of Electrical Workers, Local 46
 * June 2014 - July 2015
 * Duties:
-> * Process archival collection and edit EAD finding aid for [International Brotherhood of Electrical Workers, Local 46 records](http://archiveswest.orbiscascade.org/ark:/80444/xv59677)
+    * Process archival collection and edit EAD finding aid for [International Brotherhood of Electrical Workers, Local 46 records](http://archiveswest.orbiscascade.org/ark:/80444/xv59677)
 ### Student Curatorial Assistant, Labor Archives of Washington
 * August 2013 - September 2014
 * Duties:
@@ -73,15 +74,15 @@ Create, update, and digitize legacy print and EAD finding aids using XML
 ### Student Project Archivist, Labor Archives of Washington
 * October 2012 - August 2013
 * Duties:
-> * Perform physical processing, inventory, arrangement, and EAD finding aid creation and publishing for archival collections associated with UFCW Local 81:
-> > * [United Food and Commercial Workers International Union, Local 81 records](http://archiveswest.orbiscascade.org/ark:/80444/xv41351)
-> > * [United Food and Commercial Workers International Union, Local 81 photograph collection](http://archiveswest.orbiscascade.org/ark:/80444/xv03225/op=fstyle.aspx?t=k&q=ufcw+local+81)
+Perform physical processing, inventory, arrangement, and EAD finding aid creation and publishing for archival collections associated with UFCW Local 81:
+    * [United Food and Commercial Workers International Union, Local 81 records](http://archiveswest.orbiscascade.org/ark:/80444/xv41351)
+    * [United Food and Commercial Workers International Union, Local 81 photograph collection](http://archiveswest.orbiscascade.org/ark:/80444/xv03225/op=fstyle.aspx?t=k&q=ufcw+local+81)
 ### Volunteer, Labor Archives of Washington
 * February 2012 - October 2012
 * Duties:
-> * Perform physical processing, inventory, arrangement, and description of archival collections:
-> > * [United Workers Union-Independent records](http://archiveswest.orbiscascade.org/ark:/80444/xv85589)
-> > * [International Typographical Union Local 99 records](http://archiveswest.orbiscascade.org/ark:/80444/xv63897) 
+Perform physical processing, inventory, arrangement, and description of archival collections:
+    * [United Workers Union-Independent records](http://archiveswest.orbiscascade.org/ark:/80444/xv85589)
+    * [International Typographical Union Local 99 records](http://archiveswest.orbiscascade.org/ark:/80444/xv63897) 
 ## Projects
 ### Key Roles
 #### [MARC21 to RDA-RDF Mapping Project](https://github.com/uwlib-cams/MARC2RDA)
@@ -136,6 +137,8 @@ Create, update, and digitize legacy print and EAD finding aids using XML
 * Metadata Application Profiles for Library Data. ALCTS E-Forum, January 7-8, 2020 (co-hosted with Benjamin Riesenberg and Theo Gerontakos)
 * Tools and Workflows for Enhancing Discoverability of Linked Data and Other Library Resources on the Web. CITS-IG Roundtable, ALA Midwinter Conference, January 2019 (co-facilitated with Benjamin Riesenberg and Theo Gerontakos)
 * Linked Open Data Production and Publishing Workflow at the University of Washington Libraries. TSWE-IG Meeting, ALA Midwinter Conference, January 2019 (co-presented with Benjamin Riesenberg and Theo Gerontakos)
+* Upcoming:
+    * Expanding the Foundation for RDA as Linked Data: Mapping MARC21 Bibliographic to LRM/RDA/RDF. Linking Global Knowledge, LD4 Conference on Linked Data, July 2022 (co-presenting with Junghae Lee and Theo Gerontakos)
 ## Professional Training
 ### Python Basics for Librarians and Archivists
 * ACRL Digital Scholarship Section (DSS)
@@ -167,43 +170,35 @@ Create, update, and digitize legacy print and EAD finding aids using XML
 * Course on LEAN/Continuous Improvement Process
 ## Committees, Service and Memberships
 * American Library Association (ALA) Member
-* LD4 Community
-> * October 2018 - Present
-> > * Profiles Working Group
-> > > * Author the first metadata application profiles used in the Sinopia Linked Data Editor using BIBFRAME ontology
-> > > * Collaborate on community-wide best practices
-> > > * Author and lead local trainings
-> > * Profiles Affinity Group
-> > > * Lead authorship of local LRM/RDA/RDF application profiles for use in the Sinopia Linked Data Editor
-> > > * Author and lead local training
-> > > * Serve as application profiles liaison between the Libraries and LD4 community
-> > * Non-Latin Script Affinity Group
-> > * Wikidata Affinity Group
-> > * Ethics in Linked Data Affinity Group
-> > > * Serve as a peer reviewer for upcoming book, “Ethics in Linked Data”
-> > * PCC Cataloging in Sinopia Affinity Group
-> > * Rare Materials Affinity Group
-> > * Sinopia User Group
-> > > * Meet with Astrid Usong to advise on Sinopia UX developments
-> > > * Contribute to Sinopia development via GitHub
-* University of Washington Libraries Linked Data Team
-> * 2017 - Present
-* University of Washington Libraries Metadata Implementation Group
-> * 2017 - Present
-* University of Washington Libraries RML Study Group
-> * September 2021 - Present
-* University of Washington Libraries Git/GitHub Study Group
-> * November 2020 - Present
-* Decriminalize the UW Libraries Working Group
-> * September 2020 - April 2021
-> * Partnerships & Advocacy Subgroup
-> * Draft recommendations to send to UW Libraries Cabinet
-> * Attend UW Libraries Cabinet meeting to follow up on recommendations
-> * Hold Libraries Town Hall focused on decriminalization
-* Search Committee for Metadata Librarian Position
-> * 2019
-* University of Washington SPARQL Study Group
-> * December 2017 - September 2019
+* LD4 Community (October 2018-Present)
+    * Profiles Working Group (LD4P2)
+        * Author the first metadata application profiles used in the Sinopia Linked Data Editor using BIBFRAME ontology
+        * Collaborate on community-wide best practices
+        * Author and lead local trainings
+    * Profiles Affinity Group (LD4P2)
+        * Lead authorship of local LRM/RDA/RDF application profiles for use in the Sinopia Linked Data Editor
+        * Author and lead local training
+        * Serve as application profiles liaison between the Libraries and LD4 community
+    * Non-Latin Script Affinity Group (LD4P2-Present)
+    * Wikidata Affinity Group (LD4P2-Present)
+    * Ethics in Linked Data Affinity Group (LD4P2-Present)
+        * Serve as a peer reviewer for upcoming book, “Ethics in Linked Data”
+    * PCC Cataloging in Sinopia Affinity Group (LD4P3-Present)
+    * Rare Materials Affinity Group (LD4P2-Present)
+    * Sinopia User Group (LD4P2-Present)
+        * Meet with Astrid Usong to advise on Sinopia UX developments
+        * Contribute to Sinopia development via GitHub
+* University of Washington Libraries Linked Data Team (2017-Present)
+* University of Washington Libraries Metadata Implementation Group (2017-Present)
+* University of Washington Libraries RML Study Group (September 2021-April 2022)
+* University of Washington Libraries Git/GitHub Study Group (November 2020-Present)
+* Decriminalize the UW Libraries Working Group (September 2020-April 2021)
+    * Partnerships & Advocacy Subgroup
+    * Draft recommendations to send to UW Libraries Cabinet
+    * Attend UW Libraries Cabinet meeting to follow up on recommendations
+    * Hold Libraries Town Hall focused on decriminalization
+* Search Committee for Metadata Librarian Position (2019)
+* University of Washington Libraries SPARQL Study Group (December 2017 - September 2019)
 ## Honors and Awards
 * ACRL Rare Books & Manuscripts Section Virtual Conference Registration Scholarship, 2022
 ## Languages
@@ -248,10 +243,10 @@ Create, update, and digitize legacy print and EAD finding aids using XML
 * Plone
 * Git and GitHub
 * Some exposure to:
-> * Apache Jena Fuseki
-> * Linux
-> * Java
-> * Python/Jupyter Notebooks
+    * Apache Jena Fuseki
+    * Linux
+    * Java
+    * Python/Jupyter Notebooks
 ### Other
 * Verbal, written, and interpersonal communication
 * Documentation
