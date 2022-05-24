@@ -168,6 +168,10 @@ Perform physical processing, inventory, arrangement, and description of archival
 * University of Washington Professional & Organizational Development
 * 2016
 * Course on LEAN/Continuous Improvement Process
+### Cataloging Rare Materials with the Official Toolkit and DCRMR
+* ALA eLearning
+* Upcoming (September 2022)
+* Webinar taught by Elizabeth Hobart
 ## Committees, Service and Memberships
 * American Library Association (ALA) Member
 * LD4 Community (October 2018-Present)
