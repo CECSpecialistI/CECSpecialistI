@@ -174,6 +174,7 @@ Perform physical processing, inventory, arrangement, and description of archival
 * Webinar taught by Elizabeth Hobart
 ## Committees, Service and Memberships
 * American Library Association (ALA) Member
+* Orbis Cascade Alliance Shared Content & Technical Services Cataloging Standing Group (June 2022-Present)
 * LD4 Community (October 2018-Present)
     * Profiles Working Group (LD4P2)
         * Author the first metadata application profiles used in the Sinopia Linked Data Editor using BIBFRAME ontology
