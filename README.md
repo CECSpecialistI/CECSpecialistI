@@ -49,7 +49,7 @@
     * Author and update cataloging and linked data procedures and documentation using Plone
     * Manage and participate in international metadata and linked data projects as a member of the Linked Data Team
     * Attend Special Collections Catalogers’ meetings
-    * Participate in OCLC Member Merge program to merge duplicate records in the OCLC environment
+    * Participate in OCLC Member Merge program to merge duplicate records for books in the OCLC environment; train others at UW Libraries to do the same
 ### Rare Book & Book Arts Cataloger, University of Washington Libraries
 * July 2015 - January 2018
 * Duties:
@@ -130,6 +130,8 @@ Perform physical processing, inventory, arrangement, and description of archival
 * MARC-to-Wikidata Workflow at the University of Washington Libraries. May 2021
 * Linked Data at the University of Washington Libraries. March 2019 (co-presented with Benjamin Riesenberg and Theo Gerontakos)
 ### National/International
+* Expanding the Foundation for RDA as Linked Data: Mapping MARC21 Bibliographic to LRM/RDA/RDF. Linking Global Knowledge, LD4 Conference on Linked Data, July 2022 (co-presented with Junghae Lee and Theo Gerontakos) [recording](https://www.youtube.com/watch?v=O5C_q8LYnCA)
+* Sinopia Non-Latin Script Materials Cataloging Workshop. Linking Global Knowledge, LD4 Conference on Linked Data, July 2022 [recording](https://drive.google.com/file/d/1xllYYEKUUZ4X30EWoFDfbJV9PGudMgd5/view?usp=sharing)
 * “Taking to Bed”: A Sculptural Artists’ Book by Tamar Stone. RBMS “Cool Things We’ve Cataloged” Lightning Talks, October 7, 2021 (co-presented with Mary Mathiason and Caitlyn Stephens)
 * What Role Can RDA/RDF Play in the Transition to Library Linked Data. BIBFRAME Workshop in Europe, September 23, 2021 (co-mediated with Theo Gerontakos) 
 * MARC-to-Wikidata Workflow at the University of Washington Libraries. PCC Wikidata Pilot Project Participants’ Meeting, September 2021
@@ -137,8 +139,8 @@ Perform physical processing, inventory, arrangement, and description of archival
 * Metadata Application Profiles for Library Data. ALCTS E-Forum, January 7-8, 2020 (co-hosted with Benjamin Riesenberg and Theo Gerontakos)
 * Tools and Workflows for Enhancing Discoverability of Linked Data and Other Library Resources on the Web. CITS-IG Roundtable, ALA Midwinter Conference, January 2019 (co-facilitated with Benjamin Riesenberg and Theo Gerontakos)
 * Linked Open Data Production and Publishing Workflow at the University of Washington Libraries. TSWE-IG Meeting, ALA Midwinter Conference, January 2019 (co-presented with Benjamin Riesenberg and Theo Gerontakos)
-* Upcoming:
-    * Expanding the Foundation for RDA as Linked Data: Mapping MARC21 Bibliographic to LRM/RDA/RDF. Linking Global Knowledge, LD4 Conference on Linked Data, July 2022 (co-presenting with Junghae Lee and Theo Gerontakos)
+### Upcoming
+* Expanding the Foundation for RDA as Linked Data: Mapping MARC21 Bibliographic to LRM/RDA/RDF. IGeLU 2022 Hybrid Conference and Developers' Day, September 2022 (co-presenting with Jian-Ping Lee and Laura Akerman)
 ## Professional Training
 ### Python Basics for Librarians and Archivists
 * ACRL Digital Scholarship Section (DSS)
