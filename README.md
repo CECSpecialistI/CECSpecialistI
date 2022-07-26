@@ -130,8 +130,10 @@ Perform physical processing, inventory, arrangement, and description of archival
 * MARC-to-Wikidata Workflow at the University of Washington Libraries. May 2021
 * Linked Data at the University of Washington Libraries. March 2019 (co-presented with Benjamin Riesenberg and Theo Gerontakos)
 ### National/International
+* LGBTDB and pronouns in Wikidata. LD4 Wikidata Affinity Group Call, July 2022 (co-presented with Clair Kronk and Alex Jung)
 * Expanding the Foundation for RDA as Linked Data: Mapping MARC21 Bibliographic to LRM/RDA/RDF. Linking Global Knowledge, LD4 Conference on Linked Data, July 2022 (co-presented with Junghae Lee and Theo Gerontakos) [recording](https://www.youtube.com/watch?v=O5C_q8LYnCA)
 * Sinopia Non-Latin Script Materials Cataloging Workshop. Linking Global Knowledge, LD4 Conference on Linked Data, July 2022 [recording](https://drive.google.com/file/d/1xllYYEKUUZ4X30EWoFDfbJV9PGudMgd5/view?usp=sharing)
+* Setting the framework for a future discussion on addressing ethical concerns surrounding representation of gender for persons in Wikidata. LD4 Wikidata Affinity Group Call, February 2022 [recording](https://stanford.zoom.us/rec/share/o1xibJpoWpFRMgOXrTKd1yz_mkXcQye3Tq6RlEDfMMdBoWZz3t9aidfujW8WQts6.ffD4u8LC_HGHQNk-?startTime=1644339309000)
 * “Taking to Bed”: A Sculptural Artists’ Book by Tamar Stone. RBMS “Cool Things We’ve Cataloged” Lightning Talks, October 7, 2021 (co-presented with Mary Mathiason and Caitlyn Stephens)
 * What Role Can RDA/RDF Play in the Transition to Library Linked Data. BIBFRAME Workshop in Europe, September 23, 2021 (co-mediated with Theo Gerontakos) 
 * MARC-to-Wikidata Workflow at the University of Washington Libraries. PCC Wikidata Pilot Project Participants’ Meeting, September 2021
