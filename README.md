@@ -177,6 +177,7 @@ Perform physical processing, inventory, arrangement, and description of archival
 * Upcoming (September 2022)
 * Webinar taught by Elizabeth Hobart
 ## Committees, Service and Memberships
+* University of Washington Information School [iSTAMP Program](https://ischool.uw.edu/alumni/get-involved/istamp) Mentor (2022-2023)
 * American Library Association (ALA) Member
 * PCC Identity Management Advisory Committee (IMAC) (2022-2025)
 * Orbis Cascade Alliance Shared Content & Technical Services Cataloging Standing Group (June 2022-Present)
