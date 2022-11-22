@@ -89,6 +89,15 @@ Perform physical processing, inventory, arrangement, and description of archival
 * 2021 - Present
 * Project Manager, University of Washington Libraries
 * Coordinate international effort to create a robust mapping between the MARC21 bibliographic standard and LRM/RDA/RDF
+#### iSchool Student Capstone Project: Electronic Theses and Dissertation Metadata Conversion from MARC21 to Wikidata
+* November 2021-June 2022
+* Supervise Capstone project team including iSchool students Valerie Rollins, Olivia Davis, and Matthew "Bryce" Hagan. Goals include completing conversion of University of Washington electronic theses and dissertation metadata from MARC21 to Wikidata, item creation for relevant corporate bodies and agents, reconciling against existing Wikidata entities, and streamlining and further automation of the MARC21 to Wikidata workflow
+#### iSchool Student Capstone Project: Gender in Wikidata
+* November 2021-June 2022
+* Supervise Capstone project team including iSchool students Arielle Rodriguez, Lisa Weideman, Alex King, and Arcturus (Ari) Brokaw
+#### iSchool Student Directed Fieldwork
+* Winter 2022
+* Supervise traditional cataloging fieldwork of iSchool student Valerie Rollins
 #### [PCC Wikidata Pilot Project](https://www.wikidata.org/wiki/Wikidata:WikiProject_PCC_Wikidata_Pilot/University_of_Washington)
 * August 2020 - December 2021
 * Project Manager, University of Washington Libraries	
@@ -144,6 +153,9 @@ Perform physical processing, inventory, arrangement, and description of archival
 ### Upcoming
 * Expanding the Foundation for RDA as Linked Data: Mapping MARC21 Bibliographic to LRM/RDA/RDF. IGeLU 2022 Hybrid Conference and Developers' Day, September 2022 (co-presenting with Jian-Ping Lee and Laura Akerman)
 ## Professional Training
+### [Racial Equity Institute Phase I Training](https://racialequityinstitute.org/our-services/)
+* October 18-19, 2022
+* Intensive two-day workshop "designed to develop the capacity of participants to better understand racism in its institutional and structural forms. Moving away from a focus on personal bigotry and bias, this workshop presents a historical, cultural, and structural analysis of racism"--REI website description, accessed November 22, 2022
 ### Python Basics for Librarians and Archivists
 * ACRL Digital Scholarship Section (DSS)
 * 2022
@@ -180,7 +192,7 @@ Perform physical processing, inventory, arrangement, and description of archival
 * University of Washington Information School [iSTAMP Program](https://ischool.uw.edu/alumni/get-involved/istamp) Mentor (2022-2023)
 * American Library Association (ALA) Member
 * PCC Identity Management Advisory Committee (IMAC) (2022-2025)
-* Orbis Cascade Alliance Shared Content & Technical Services Cataloging Standing Group (June 2022-Present)
+* Orbis Cascade Alliance Shared Content & Technical Services Cataloging Standing Group (SCTS-CSG) (June 2022-Present)
 * LD4 Community (October 2018-Present)
     * Profiles Working Group (LD4P2)
         * Author the first metadata application profiles used in the Sinopia Linked Data Editor using BIBFRAME ontology
