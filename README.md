@@ -94,7 +94,7 @@ Perform physical processing, inventory, arrangement, and description of archival
 * Supervise Capstone project team including iSchool students Valerie Rollins, Olivia Davis, and Matthew "Bryce" Hagan. Goals include completing conversion of University of Washington electronic theses and dissertation metadata from MARC21 to Wikidata, item creation for relevant corporate bodies and agents, reconciling against existing Wikidata entities, and streamlining and further automation of the MARC21 to Wikidata workflow
 #### iSchool Student Capstone Project: Gender in Wikidata
 * November 2021-June 2022
-* Supervise Capstone project team including iSchool students Arielle Rodriguez, Lisa Weideman, Alex King, and Arcturus (Ari) Brokaw
+* Supervise Capstone project team including iSchool student Arielle Rodriguez
 #### iSchool Student Directed Fieldwork
 * Winter 2022
 * Supervise traditional cataloging fieldwork of iSchool student Valerie Rollins
@@ -138,7 +138,10 @@ Perform physical processing, inventory, arrangement, and description of archival
 ### University of Washington Libraries
 * MARC-to-Wikidata Workflow at the University of Washington Libraries. May 2021
 * Linked Data at the University of Washington Libraries. March 2019 (co-presented with Benjamin Riesenberg and Theo Gerontakos)
+### Local
+* Organizational Barriers to Ethical Cataloging. March 2023 (facilitated discussion hosted by the Orbis Cascade Alliance SCTS-CSG)
 ### National/International
+* Expanding the Foundation for RDA as Linked Data: Mapping MARC21 Bibliographic to LRM/RDA/RDF. IGeLU 2022 Hybrid Conference and Developers' Day, September 2022 (co-presenting with Jian-Ping Lee and Laura Akerman)
 * LGBTDB and pronouns in Wikidata. LD4 Wikidata Affinity Group Call, July 2022 (co-presented with Clair Kronk and Alex Jung)
 * Expanding the Foundation for RDA as Linked Data: Mapping MARC21 Bibliographic to LRM/RDA/RDF. Linking Global Knowledge, LD4 Conference on Linked Data, July 2022 (co-presented with Junghae Lee and Theo Gerontakos) [recording](https://www.youtube.com/watch?v=O5C_q8LYnCA)
 * Sinopia Non-Latin Script Materials Cataloging Workshop. Linking Global Knowledge, LD4 Conference on Linked Data, July 2022 [recording](https://drive.google.com/file/d/1xllYYEKUUZ4X30EWoFDfbJV9PGudMgd5/view?usp=sharing)
@@ -150,8 +153,7 @@ Perform physical processing, inventory, arrangement, and description of archival
 * Metadata Application Profiles for Library Data. ALCTS E-Forum, January 7-8, 2020 (co-hosted with Benjamin Riesenberg and Theo Gerontakos)
 * Tools and Workflows for Enhancing Discoverability of Linked Data and Other Library Resources on the Web. CITS-IG Roundtable, ALA Midwinter Conference, January 2019 (co-facilitated with Benjamin Riesenberg and Theo Gerontakos)
 * Linked Open Data Production and Publishing Workflow at the University of Washington Libraries. TSWE-IG Meeting, ALA Midwinter Conference, January 2019 (co-presented with Benjamin Riesenberg and Theo Gerontakos)
-### Upcoming
-* Expanding the Foundation for RDA as Linked Data: Mapping MARC21 Bibliographic to LRM/RDA/RDF. IGeLU 2022 Hybrid Conference and Developers' Day, September 2022 (co-presenting with Jian-Ping Lee and Laura Akerman)
+
 ## Professional Training
 ### [Racial Equity Institute Phase I Training](https://racialequityinstitute.org/our-services/)
 * October 18-19, 2022
