@@ -40,7 +40,7 @@
     * Participate in the PCC Monographic Bibliographic Record Cooperative Program (BIBCO) by enhancing full level BIBCO records in OCLC
     * As a member of the Metadata Implementation Group, review published metadata across the UW Libraries' digital-collections platforms and institutional repositories, provide feedback on proposals for describing new collections, and help articulate policies for non-MARC metadata practices at the UW Libraries
     * Participate in work, projects, and meetings in Collections & Content Portfolio, Cataloging and Metadata Services Department, Monographic Cataloging Unit, Metadata and Cataloging Initiatives Unit, and Special Collections
-    * Recruit and train student employees in Metadata and Cataloging Initiatives Unit
+    * Recruit, interview, and train student employees in Metadata and Cataloging Initiatives Unit
     * Participate in the writing of grant proposals and in grant-funded projects
     * Pursue opportunities for professional growth aligned with professional interests and goals
     * Follow trends in the profession and continually update knowledge of issues and current developments in cataloging and metadata services
@@ -50,6 +50,7 @@
     * Manage and participate in international metadata and linked data projects as a member of the Linked Data Team
     * Attend Special Collections Catalogers’ meetings
     * Participate in OCLC Member Merge program to merge duplicate records for books in the OCLC environment; train others at UW Libraries to do the same
+    * Support University of Washington Information School MLIS candidates in gaining practical library experience by offering directed fieldwork and independent study opportunities, and by sponsoring capstone projects
 ### Rare Book & Book Arts Cataloger, University of Washington Libraries
 * July 2015 - January 2018
 * Duties:
@@ -89,6 +90,9 @@ Perform physical processing, inventory, arrangement, and description of archival
 * 2021 - Present
 * Project Manager, University of Washington Libraries
 * Coordinate international effort to create a robust mapping between the MARC21 bibliographic standard and LRM/RDA/RDF
+#### [Wikidata WikiProject Personal Pronouns](https://www.wikidata.org/wiki/Wikidata:WikiProject_Personal_Pronouns)
+* 2023 - Present
+* Continuation of previous international collaborative work on gender representation & related ethical issues in Wikidata which began in 2021
 #### iSchool Student Capstone Project: Electronic Theses and Dissertation Metadata Conversion from MARC21 to Wikidata
 * November 2021-June 2022
 * Supervise Capstone project team including iSchool students Valerie Rollins, Olivia Davis, and Matthew "Bryce" Hagan. Goals include completing conversion of University of Washington electronic theses and dissertation metadata from MARC21 to Wikidata, item creation for relevant corporate bodies and agents, reconciling against existing Wikidata entities, and streamlining and further automation of the MARC21 to Wikidata workflow
@@ -141,6 +145,8 @@ Perform physical processing, inventory, arrangement, and description of archival
 ### Local
 * Organizational Barriers to Ethical Cataloging. March 2023 (facilitated discussion hosted by the Orbis Cascade Alliance SCTS-CSG)
 ### National/International
+* Ethical and Inclusive Data Modeling for Gender Representation in Wikidata: Lessons and Recommendations from the Personal Pronouns Project. Queering Wikipedia 2023 Conference, May 2023 (lecture co-presented with Arielle Rodriguez and Alex Jung) [recording in English](https://youtu.be/WRIl6W8n7io) [recording in Spanish](https://youtu.be/570OJ3hAYAg)
+* "But what about representation?": Finding Ethical Solutions and Best Practices for Gender Information in Wikidata. Queering Wikipedia 2023 Conference, May 2023 (Community engagement/strategizing session co-facilitated with Arielle Rodriguez)
 * Expanding the Foundation for RDA as Linked Data: Mapping MARC21 Bibliographic to LRM/RDA/RDF. IGeLU 2022 Hybrid Conference and Developers' Day, September 2022 (co-presenting with Jian-Ping Lee and Laura Akerman)
 * LGBTDB and pronouns in Wikidata. LD4 Wikidata Affinity Group Call, July 2022 (co-presented with Clair Kronk and Alex Jung)
 * Expanding the Foundation for RDA as Linked Data: Mapping MARC21 Bibliographic to LRM/RDA/RDF. Linking Global Knowledge, LD4 Conference on Linked Data, July 2022 (co-presented with Junghae Lee and Theo Gerontakos) [recording](https://www.youtube.com/watch?v=O5C_q8LYnCA)
@@ -194,7 +200,9 @@ Perform physical processing, inventory, arrangement, and description of archival
 * University of Washington Information School [iSTAMP Program](https://ischool.uw.edu/alumni/get-involved/istamp) Mentor (2022-2023)
 * American Library Association (ALA) Member
 * PCC Identity Management Advisory Committee (IMAC) (2022-2025)
+    * Co-chair 2023-2025
 * Orbis Cascade Alliance Shared Content & Technical Services Cataloging Standing Group (SCTS-CSG) (June 2022-Present)
+    * Chair 2023-2024
 * LD4 Community (October 2018-Present)
     * Profiles Working Group (LD4P2)
         * Author the first metadata application profiles used in the Sinopia Linked Data Editor using BIBFRAME ontology
