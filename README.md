@@ -145,6 +145,8 @@ Perform physical processing, inventory, arrangement, and description of archival
 ### Local
 * Organizational Barriers to Ethical Cataloging. March 2023 (facilitated discussion hosted by the Orbis Cascade Alliance SCTS-CSG)
 ### National/International
+* _Upcoming:_ From EAD to MARC to Wikidata and Back Again : Tools and Workflows for Archival Metadata at the University of Washington Libraries. 15th Semantic Web in Libraries Conference, September 2023 (co-presenting with Adam Schiff)
+* Linked Data Challenges from the MARC21 to LRM/RDA/RDF Mapping Project: 505 + $5. 2023 LD4 Conference, July 2023 (introduced presentation for Laura Akerman) [recording](https://www.youtube.com/watch?v=a94YuAuNFmM)
 * Ethical and Inclusive Data Modeling for Gender Representation in Wikidata: Lessons and Recommendations from the Personal Pronouns Project. Queering Wikipedia 2023 Conference, May 2023 (lecture co-presented with Arielle Rodriguez and Alex Jung) [recording in English](https://youtu.be/WRIl6W8n7io) [recording in Spanish](https://youtu.be/570OJ3hAYAg)
 * "But what about representation?": Finding Ethical Solutions and Best Practices for Gender Information in Wikidata. Queering Wikipedia 2023 Conference, May 2023 (Community engagement/strategizing session co-facilitated with Arielle Rodriguez)
 * Expanding the Foundation for RDA as Linked Data: Mapping MARC21 Bibliographic to LRM/RDA/RDF. IGeLU 2022 Hybrid Conference and Developers' Day, September 2022 (co-presenting with Jian-Ping Lee and Laura Akerman)
@@ -215,7 +217,7 @@ Perform physical processing, inventory, arrangement, and description of archival
     * Non-Latin Script Affinity Group (LD4P2-Present)
     * Wikidata Affinity Group (LD4P2-Present)
     * Ethics in Linked Data Affinity Group (LD4P2-Present)
-        * Serve as a peer reviewer for upcoming book, “Ethics in Linked Data”
+        * Served as a peer reviewer for book, [“Ethics in Linked Data”](https://litwinbooks.com/books/ethics-in-linked-data/)
     * PCC Cataloging in Sinopia Affinity Group (LD4P3-Present)
     * Rare Materials Affinity Group (LD4P2-Present)
     * Sinopia User Group (LD4P2-Present)
