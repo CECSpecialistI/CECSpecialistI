@@ -2,7 +2,6 @@
 * cec23@uw.edu
 * https://orcid.org/0000-0001-5000-282X  
 * https://www.wikidata.org/wiki/User:Clements.UWLib
-* https://twitter.com/CrystalCatalogs
 * Cataloging and Metadata Services <br>
   University of Washington Libraries <br>
   Box 352900 <br>
@@ -49,7 +48,7 @@
     * Author and update cataloging and linked data procedures and documentation using Plone
     * Manage and participate in international metadata and linked data projects as a member of the Linked Data Team
     * Attend Special Collections Catalogers’ meetings
-    * Participate in OCLC Member Merge program to merge duplicate records for books in the OCLC environment; train others at UW Libraries to do the same
+    * Participate in OCLC Member Merge program to merge duplicate records for print and electronic books and maps in the OCLC environment; train others at UW Libraries to do the same
     * Support University of Washington Information School MLIS candidates in gaining practical library experience by offering directed fieldwork and independent study opportunities, and by sponsoring capstone projects
 ### Rare Book & Book Arts Cataloger, University of Washington Libraries
 * July 2015 - January 2018
@@ -116,6 +115,12 @@ Perform physical processing, inventory, arrangement, and description of archival
 * Lead authorship of University of Washington LRM/RDA/RDF application profiles for the Sinopia Profile Editor, serve as a core member of UW subgrant group and as application profiles representative for UW Libraries to the rest of the LD4P2 cohort. Serve on LD4 Community interest groups. Author local Sinopia cataloging training materials and lead training. Contribute training materials to the PCC Sinopia Training Group
 * Funding support from Andrew W. Mellon Foundation
 ### Support Roles
+#### [UW Libraries Sinopia MAPs Project](https://github.com/uwlib-cams/sinopia_maps)
+* 2020 - Present
+* LRM/RDA/RDF profiles for cataloging in the Sinopia Linked Data Editor
+* Profiles for use with Official RDA
+* Support project leader Benjamin Riesenberg by reviewing and discussing Sinopia resource templates
+* Project closely linked to the MARC21 to LRM/RDA/RDF Mapping Project
 #### [UW Libraries Semantic Web Metadata](https://www.lib.washington.edu/cams/swr)
 * 2017 - Present
 * LRM/RDA/RDF profiles for cataloging in the Sinopia Linked Data Editor
@@ -145,7 +150,7 @@ Perform physical processing, inventory, arrangement, and description of archival
 ### Local
 * Organizational Barriers to Ethical Cataloging. March 2023 (facilitated discussion hosted by the Orbis Cascade Alliance SCTS-CSG)
 ### National/International
-* _Upcoming:_ From EAD to MARC to Wikidata and Back Again : Tools and Workflows for Archival Metadata at the University of Washington Libraries. 15th Semantic Web in Libraries Conference, September 2023 (co-presenting with Adam Schiff)
+* From EAD to MARC to Wikidata and Back Again : Tools and Workflows for Archival Metadata at the University of Washington Libraries. 15th Semantic Web in Libraries Conference, September 2023 (co-presented with Adam Schiff) [slides](https://swib.org/swib23/slides/01_Crystal%20Yragui_Adam%20Schiff_SWIB2023.pdf) [recording](https://youtu.be/NXa7mz6bp8U)
 * Linked Data Challenges from the MARC21 to LRM/RDA/RDF Mapping Project: 505 + $5. 2023 LD4 Conference, July 2023 (introduced presentation for Laura Akerman) [recording](https://www.youtube.com/watch?v=a94YuAuNFmM)
 * Ethical and Inclusive Data Modeling for Gender Representation in Wikidata: Lessons and Recommendations from the Personal Pronouns Project. Queering Wikipedia 2023 Conference, May 2023 (lecture co-presented with Arielle Rodriguez and Alex Jung) [recording in English](https://youtu.be/WRIl6W8n7io) [recording in Spanish](https://youtu.be/570OJ3hAYAg)
 * "But what about representation?": Finding Ethical Solutions and Best Practices for Gender Information in Wikidata. Queering Wikipedia 2023 Conference, May 2023 (Community engagement/strategizing session co-facilitated with Arielle Rodriguez)
@@ -163,6 +168,21 @@ Perform physical processing, inventory, arrangement, and description of archival
 * Linked Open Data Production and Publishing Workflow at the University of Washington Libraries. TSWE-IG Meeting, ALA Midwinter Conference, January 2019 (co-presented with Benjamin Riesenberg and Theo Gerontakos)
 
 ## Professional Training
+### NNLM Region 5 [Library Carpentry Workshop](https://librarycarpentry.org/lessons/)
+* October 2023
+* Three-day workshop featuring lessons on Intro to Data, Unix Shell, Git, and/or OpenRefine
+### Husky Growth, Opportunity, Learning, Development (GOLD) Program, University of Washington Libraries
+* September 2023-Present
+* An in-depth growth and learning experience for staff to:
+    * Strengthen personal confidence
+    * Learn effective self-management tools
+    * Strengthen change management skills
+    * Improve interpersonal skills
+    * Understand the role of staff in advancing the mission and strategy of the Libraries
+### [Cataloging with Medical Subject Headings (MeSH)](https://www.nnlm.gov/training/class/cataloging-medical-subject-headings-mesh#:~:text=This%2090%2Dminute%20webinar%20explores,U.S.%20National%20Library%20of%20Medicine)
+* September 29, 2023
+* Webinar explores the use of the Medical Subject Headings (MeSH) in the cataloging environment
+* Taught by Sharon Willis, Senior Cataloging Specialist at the U.S. National Library of Medicine
 ### [Racial Equity Institute Phase I Training](https://racialequityinstitute.org/our-services/)
 * October 18-19, 2022
 * Intensive two-day workshop "designed to develop the capacity of participants to better understand racism in its institutional and structural forms. Moving away from a focus on personal bigotry and bias, this workshop presents a historical, cultural, and structural analysis of racism"--REI website description, accessed November 22, 2022
