@@ -92,6 +92,12 @@ Perform physical processing, inventory, arrangement, and description of archival
 #### [Wikidata WikiProject Personal Pronouns](https://www.wikidata.org/wiki/Wikidata:WikiProject_Personal_Pronouns)
 * 2023 - Present
 * Continuation of previous international collaborative work on gender representation & related ethical issues in Wikidata which began in 2021
+#### iSchool Student Capstone Project: Retrospective Homosaurus Implementation
+* November 2023-June 2024
+* Supervise Capstone project student Ally Okun.
+#### iSchool Student Directed Fieldwork
+* Winter 2023-2024
+* Supervise book arts cataloging directed fieldwork of iSchool student Cypress Payne
 #### iSchool Student Capstone Project: Electronic Theses and Dissertation Metadata Conversion from MARC21 to Wikidata
 * November 2021-June 2022
 * Supervise Capstone project team including iSchool students Valerie Rollins, Olivia Davis, and Matthew "Bryce" Hagan. Goals include completing conversion of University of Washington electronic theses and dissertation metadata from MARC21 to Wikidata, item creation for relevant corporate bodies and agents, reconciling against existing Wikidata entities, and streamlining and further automation of the MARC21 to Wikidata workflow
@@ -99,7 +105,7 @@ Perform physical processing, inventory, arrangement, and description of archival
 * November 2021-June 2022
 * Supervise Capstone project team including iSchool student Arielle Rodriguez
 #### iSchool Student Directed Fieldwork
-* Winter 2022
+* Winter 2022-2023
 * Supervise traditional cataloging fieldwork of iSchool student Valerie Rollins
 #### [PCC Wikidata Pilot Project](https://www.wikidata.org/wiki/Wikidata:WikiProject_PCC_Wikidata_Pilot/University_of_Washington)
 * August 2020 - December 2021
