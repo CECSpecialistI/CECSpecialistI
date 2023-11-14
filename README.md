@@ -92,9 +92,12 @@ Perform physical processing, inventory, arrangement, and description of archival
 #### [Wikidata WikiProject Personal Pronouns](https://www.wikidata.org/wiki/Wikidata:WikiProject_Personal_Pronouns)
 * 2023 - Present
 * Continuation of previous international collaborative work on gender representation & related ethical issues in Wikidata which began in 2021
+#### SCTS Cataloging Standing Group Retrospective Homosaurus Implementation Project
+* October 2023-June 2024
+* Chair, SCTS-CSG
 #### iSchool Student Capstone Project: Retrospective Homosaurus Implementation
 * November 2023-June 2024
-* Supervise Capstone project student Ally Okun.
+* Supervise Capstone project student Ally Okun. Project will form part of the broader Alliance SCTS-CSG project.
 #### iSchool Student Directed Fieldwork
 * Winter 2023-2024
 * Supervise book arts cataloging directed fieldwork of iSchool student Cypress Payne
