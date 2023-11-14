@@ -145,11 +145,14 @@ Perform physical processing, inventory, arrangement, and description of archival
 * Assist iSchool student Kirsten Painter in completing a Capstone Project consisting of an online exhibit. Perform original and complex copy cataloging in Latin and Cyrillic scripts of rare Russian children’s books. Revise and enhance OCLC Connexion and ContentDM records for physical and electronic copies of books included in the exhibit using RDA, DCRM(B), RBMS vocabularies, Library of Congress authorities and classification schedules, Dublin Core, and MARC21
 ## Presentations
 ### University of Washington Libraries
+* Retrospective Homosaurus Implementation, November 2023 (lightning talk presented at Live with C&C Meeting) [slides](https://docs.google.com/presentation/d/11U15TjwFReuDyLnJ7lK8QUbqZFgz9iTnH6SmUIVRTGo/edit?usp=sharing) [recording](https://washington.zoom.us/rec/share/lVbVqnQvxz2ULH-iqW9ST18jApqK_6uxZZzlKjhrxd0RN2ZzfdZwmqWlsLxJtYqw.UHiODTLLotKieknM?startTime=1699477299000)
+* From EAD to MARC to Wikidata and Back Again : Tools and Workflows for Archival Metadata at the University of Washington Libraries, October 2023 (co-presented with Adam Schiff and Eulalie Mathieu) [recording](https://drive.google.com/drive/folders/1YbgADRu4jNTMguoj1fgcVHDbgEGk7-za)
 * MARC-to-Wikidata Workflow at the University of Washington Libraries. May 2021
 * Linked Data at the University of Washington Libraries. March 2019 (co-presented with Benjamin Riesenberg and Theo Gerontakos)
 ### Local
 * Organizational Barriers to Ethical Cataloging. March 2023 (facilitated discussion hosted by the Orbis Cascade Alliance SCTS-CSG)
 ### National/International
+* *Upcoming:* Modelling gender. Wikidata Data Modelling Days, November 30-December 2, 2023 [co-presenting with Arielle Rodriguez, Beatrice Melis, Chiara Paolini, Daniele Metilli, and Marta Fioravanti]
 * From EAD to MARC to Wikidata and Back Again : Tools and Workflows for Archival Metadata at the University of Washington Libraries. 15th Semantic Web in Libraries Conference, September 2023 (co-presented with Adam Schiff) [slides](https://swib.org/swib23/slides/01_Crystal%20Yragui_Adam%20Schiff_SWIB2023.pdf) [recording](https://youtu.be/NXa7mz6bp8U)
 * Linked Data Challenges from the MARC21 to LRM/RDA/RDF Mapping Project: 505 + $5. 2023 LD4 Conference, July 2023 (introduced presentation for Laura Akerman) [recording](https://www.youtube.com/watch?v=a94YuAuNFmM)
 * Ethical and Inclusive Data Modeling for Gender Representation in Wikidata: Lessons and Recommendations from the Personal Pronouns Project. Queering Wikipedia 2023 Conference, May 2023 (lecture co-presented with Arielle Rodriguez and Alex Jung) [recording in English](https://youtu.be/WRIl6W8n7io) [recording in Spanish](https://youtu.be/570OJ3hAYAg)
@@ -168,9 +171,6 @@ Perform physical processing, inventory, arrangement, and description of archival
 * Linked Open Data Production and Publishing Workflow at the University of Washington Libraries. TSWE-IG Meeting, ALA Midwinter Conference, January 2019 (co-presented with Benjamin Riesenberg and Theo Gerontakos)
 
 ## Professional Training
-### NNLM Region 5 [Library Carpentry Workshop](https://librarycarpentry.org/lessons/)
-* October 2023
-* Three-day workshop featuring lessons on Intro to Data, Unix Shell, Git, and/or OpenRefine
 ### Husky Growth, Opportunity, Learning, Development (GOLD) Program, University of Washington Libraries
 * September 2023-Present
 * An in-depth growth and learning experience for staff to:
@@ -179,6 +179,12 @@ Perform physical processing, inventory, arrangement, and description of archival
     * Strengthen change management skills
     * Improve interpersonal skills
     * Understand the role of staff in advancing the mission and strategy of the Libraries
+### Orbis Cascade Alliance [Library Carpentry Workshop](https://librarycarpentry.org/lessons/)
+* October 2023
+* Three-day workshop featuring lessons on Intro to Data, Unix Shell, Git, and/or OpenRefine
+### NNLM Region 5 [Library Carpentry Workshop](https://librarycarpentry.org/lessons/)
+* October 2023
+* Three-day workshop featuring lessons on Intro to Data, Unix Shell, Git, and/or OpenRefine
 ### [Cataloging with Medical Subject Headings (MeSH)](https://www.nnlm.gov/training/class/cataloging-medical-subject-headings-mesh#:~:text=This%2090%2Dminute%20webinar%20explores,U.S.%20National%20Library%20of%20Medicine)
 * September 29, 2023
 * Webinar explores the use of the Medical Subject Headings (MeSH) in the cataloging environment
@@ -219,7 +225,7 @@ Perform physical processing, inventory, arrangement, and description of archival
 * Upcoming (September 2022)
 * Webinar taught by Elizabeth Hobart
 ## Committees, Service and Memberships
-* University of Washington Information School [iSTAMP Program](https://ischool.uw.edu/alumni/get-involved/istamp) Mentor (2022-2023)
+* University of Washington Information School [iSTAMP Program](https://ischool.uw.edu/alumni/get-involved/istamp) Mentor (2022-Present)
 * American Library Association (ALA) Member
 * PCC Identity Management Advisory Committee (IMAC) (2022-2025)
     * Co-chair 2023-2025
