@@ -1,4 +1,4 @@
-# Crystal E. Yragui (Clements)
+# Crystal E. Yragui
 * cec23@uw.edu
 * https://orcid.org/0000-0001-5000-282X  
 * https://www.wikidata.org/wiki/User:Clements.UWLib
@@ -7,6 +7,7 @@
   Box 352900 <br>
   Seattle, WA 98195 <br>
 * pronouns: she/her/they/them
+* maiden name: Clements
 ## Education
 * MS, University of Washington, Library and Information Science	, June 2014
     * Independent Study, Advanced Cataloging, Allyson Carlyle, Sandra Kroupa, Mary Mathiason
@@ -101,6 +102,9 @@ Perform physical processing, inventory, arrangement, and description of archival
 #### iSchool Student Directed Fieldwork
 * Winter 2023-2024
 * Supervise book arts cataloging directed fieldwork of iSchool student Cypress Payne
+#### Critical Cataloging, Archival Description, and Metadata Working Group Remediation Project: Schitsu’umsh
+* Winter 2023-2024
+* Alongside Kat Lewis (Special Projects Curator, Special Collections) and Elaine Speer (Accessioning Archivist, Special Collections), updated instances of an outdated term for the Schitsu’umsh Tribe which had been reported to the Libraries by the Schitsu’umsh through John Vallier (Curator, Ethnomusicology Archives).
 #### iSchool Student Capstone Project: Electronic Theses and Dissertation Metadata Conversion from MARC21 to Wikidata
 * November 2021-June 2022
 * Supervise Capstone project team including iSchool students Valerie Rollins, Olivia Davis, and Matthew "Bryce" Hagan. Goals include completing conversion of University of Washington electronic theses and dissertation metadata from MARC21 to Wikidata, item creation for relevant corporate bodies and agents, reconciling against existing Wikidata entities, and streamlining and further automation of the MARC21 to Wikidata workflow
