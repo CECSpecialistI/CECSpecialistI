@@ -92,8 +92,8 @@ Perform physical processing, inventory, arrangement, and description of archival
 #### [Wikidata WikiProject Personal Pronouns](https://www.wikidata.org/wiki/Wikidata:WikiProject_Personal_Pronouns)
 * 2023 - Present
 * Continuation of previous international collaborative work on gender representation & related ethical issues in Wikidata which began in 2021
-#### SCTS Cataloging Standing Group Retrospective Homosaurus Implementation Project
-* October 2023-June 2024
+#### [SCTS Cataloging Standing Group Retrospective Homosaurus Implementation Project](https://www.orbiscascade.org/programs/scts/technical-services/csg/homosaurus-implementation-project/)
+* October 2023-Present
 * Chair, SCTS-CSG
 #### iSchool Student Capstone Project: Retrospective Homosaurus Implementation
 * November 2023-June 2024
@@ -161,8 +161,9 @@ Perform physical processing, inventory, arrangement, and description of archival
 ### Local
 * Organizational Barriers to Ethical Cataloging. March 2023 (facilitated discussion hosted by the Orbis Cascade Alliance SCTS-CSG)
 ### National/International
-* *Upcoming:* Modelling gender. Wikidata Data Modelling Days, November 30-December 2, 2023 [co-presenting with Arielle Rodriguez, Beatrice Melis, Chiara Paolini, Daniele Metilli, and Marta Fioravanti]
-* From EAD to MARC to Wikidata and Back Again : Tools and Workflows for Archival Metadata at the University of Washington Libraries. 15th Semantic Web in Libraries Conference, September 2023 (co-presented with Adam Schiff) [slides](https://swib.org/swib23/slides/01_Crystal%20Yragui_Adam%20Schiff_SWIB2023.pdf) [recording](https://youtu.be/NXa7mz6bp8U)
+* EMCO for Everyone: Broadening PCC Participation with a New Cooperative for Entity Management. PCC Virtual Participants Meeting, February 15, 2024 (co-presented with Jennifer Liss) [slides](https://docs.google.com/presentation/d/1QAMjxiqFboB6FesOZiZ_i9rrImaPRSKsk7qhM334Ia8/edit?usp=sharing)
+* Modelling gender. Wikidata Data Modelling Days, November 30-December 2, 2023 (co-presented with Arielle Rodriguez, Beatrice Melis, Chiara Paolini, Daniele Metilli, and Marta Fioravanti) [recording](https://www.youtube.com/watch?v=AkBD5AKmY0M)
+* From EAD to MARC to Wikidata and Back Again: Tools and Workflows for Archival Metadata at the University of Washington Libraries. 15th Semantic Web in Libraries Conference, September 2023 (co-presented with Adam Schiff) [slides](https://swib.org/swib23/slides/01_Crystal%20Yragui_Adam%20Schiff_SWIB2023.pdf) [recording](https://youtu.be/NXa7mz6bp8U)
 * Linked Data Challenges from the MARC21 to LRM/RDA/RDF Mapping Project: 505 + $5. 2023 LD4 Conference, July 2023 (introduced presentation for Laura Akerman) [recording](https://www.youtube.com/watch?v=a94YuAuNFmM)
 * Ethical and Inclusive Data Modeling for Gender Representation in Wikidata: Lessons and Recommendations from the Personal Pronouns Project. Queering Wikipedia 2023 Conference, May 2023 (lecture co-presented with Arielle Rodriguez and Alex Jung) [recording in English](https://youtu.be/WRIl6W8n7io) [recording in Spanish](https://youtu.be/570OJ3hAYAg)
 * "But what about representation?": Finding Ethical Solutions and Best Practices for Gender Information in Wikidata. Queering Wikipedia 2023 Conference, May 2023 (Community engagement/strategizing session co-facilitated with Arielle Rodriguez)
