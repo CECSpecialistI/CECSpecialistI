@@ -140,7 +140,7 @@ Perform physical processing, inventory, arrangement, and description of archival
 * University of Washington Libraries’ Semantic Web Data describing William Brumfield Russian Architecture Digital Collection and Alaska-Yukon-Pacific digital collections
 * University of Washington Libraries RDA Application Profile Extension
 #### Friends Grant Project: Pacific Northwest Regional Index	    
-* August 2021 - Present
+* August 2021 - February 2022
 * Metadata Consultant, University of Washington Libraries
 * Consult with UW Special Collections Public Service Librarian Allee Monheim and vendor Doxie AI on metadata design for a searchable database of the Pacific Northwest Regional Newspaper and Periodical Index. Assist with mapping database to Dublin Core Metadata Elements and review data output
 #### Special Collections Print Improvement Process LEAN
