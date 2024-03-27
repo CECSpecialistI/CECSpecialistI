@@ -1,12 +1,10 @@
 # Crystal E. Yragui
 * cec23@uw.edu
-* https://orcid.org/0000-0001-5000-282X  
 * https://www.wikidata.org/wiki/User:Clements.UWLib
 * Cataloging and Metadata Services <br>
   University of Washington Libraries <br>
   Box 352900 <br>
   Seattle, WA 98195 <br>
-* pronouns: She/her/hers; They/them/theirs
 * Former name: Crystal E. Clements
 ## Education
 * MS, University of Washington, Library and Information Science	, June 2014
