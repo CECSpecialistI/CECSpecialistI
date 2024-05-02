@@ -17,8 +17,12 @@
 * BA, University of Washington, Comparative Literature & Cinema Studies	June 2009
     * Study Abroad, Queen's University Belfast, Revenge and Reconciliation in Northern Ireland, George Behlmer
 ## Experience
+### Interim Co-Head, Metadata and Cataloging Initiatives Unit, University of Washington Libraries
+* May 2024 - Present
+### Metadata Librarian, University of Washington Libraries
+* May 2024 - Present
 ### Science Cataloger, University of Washington Libraries
-* November 2017 - Present
+* November 2017 - May 2024
 * Duties:
     * Perform original and complex copy cataloging (bibliographic description, subject and genre/form analysis, classification, and authority control) of special collections monographs and cartographic materials, electronic theses and dissertations, atlases, maps, science materials, and other materials as assigned using MARC21 in the OCLC Connexion environment
     * Apply rules, controlled vocabularies and thesauri including:
