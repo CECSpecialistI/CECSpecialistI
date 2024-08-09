@@ -94,6 +94,10 @@ Perform physical processing, inventory, arrangement, and description of archival
 * 2021 - Present
 * Project Manager, University of Washington Libraries
 * Coordinate international effort to create a robust mapping and corresponding conversion tool between the MARC21 bibliographic standard and LRM/RDA/RDF
+#### [PCC Program for Entity Management Cooperative (EMCO)](https://wiki.lyrasis.org/display/PFCCP/EMCO)
+* 2023-Present
+* Co-Chair, IMAC
+* Co-chair a committee which is building the infrastructure to launch the Early Adopter Phase for a new PCC program for entity management
 #### [Wikidata WikiProject Personal Pronouns](https://www.wikidata.org/wiki/Wikidata:WikiProject_Personal_Pronouns)
 * 2023 - Present
 * Continuation of previous international collaborative work on gender representation & related ethical issues in Wikidata which began in 2021
@@ -101,6 +105,11 @@ Perform physical processing, inventory, arrangement, and description of archival
 * October 2023-Present
 * Chair, SCTS-CSG
 * As Chair of the Orbis Cascade Alliance Cataloging Standing Group, lead the planning and execution of a consortium-wide project to retrospectively enhance bibliographic records in the shared catalog with Homosaurus terms. Batches of shared records will be systematically enhanced with Homosaurus terms by over fifty volunteers across the Alliance. Following the previous year's three-part training led by Homosaurus Editorial Board Member Adrian Williams, plan and launch the implementation project. Develop project documentation from scratch, and recruit and train volunteers, including about thirty non-catalogers.
+#### iSchool Student Directed Fieldwork: Data Modeling
+* Summer 2024
+* Supervise data modeling directed fieldwork of iSchool student Fer Palomares Carranco
+* Facilitate student work in simplifying the conversion of a complex XSLT-based ContentDM metadata application profile workflow into one based on simple, easy-to-read spreadsheets built for a smaller team and less handling between metadata professionals and end users
+* Teach student how to use Wikidata, and orient student to WikiProject personal pronouns work, bringing them onto the team and allowing them to participate in making a proposal to the Wikidata community, doing research, and formulating a follow-up request for comment
 #### iSchool Student Capstone Project: Retrospective Homosaurus Implementation
 * November 2023-June 2024
 * Supervise Capstone project student Ally Okun. Project will form part of the broader Alliance SCTS-CSG project and help Ally Okun meet the requirements for a Master of Library and Information Science from the University of Washington Information School.
@@ -221,6 +230,20 @@ Perform physical processing, inventory, arrangement, and description of archival
 * Linked Data at the University of Washington Libraries. March 2019 (co-presented with Benjamin Riesenberg and Theo Gerontakos)
 
 ## Professional Training
+### [University of Washington Antiracist Leadership Institute](https://www.washington.edu/diversity/antiracist-leadership-institute/)
+* (upcoming)
+* This 2-Day leadership institute program incorporates frameworks grounded in humanist and anti-racist practice inspired by African Ubuntu cultural and philosophical perspectives. It will incorporate issues related to justice, equity, diversity, inclusion, belonging, and strategies throughout. Participants will learn proactive, innovative, and practical skills they can begin implementing personally and professionally to be more purposeful, transformative, and sustainable
+### ALA eLearning: Fundamentals of Institutional Repositories
+* July 15 - August 23, 2024
+* Josh Cromwell & Emily Hopkins
+* Self-paced online course
+* At the end of this course, students will be able to:
+    * Identify different types of repository platforms and the features and components they offer
+    * Develop strategies and methods for promoting the institutional repository to their campus community
+    * Understand how to interpret publication agreements, particularly with regard to understanding reuse rights or guidelines for repository deposit of published materials  
+    * Comprehend best practices for metadata and create original metadata records for repository content
+    * Evaluate a variety of content types appropriate for inclusion in an institutional repository, and consider diverse strategies for using the repository to meet the scholarly needs of the campus community
+    * Identify best practices for making repository content fully accessible and develop workflows for remediating inaccessible repository content
 ### Husky Growth, Opportunity, Learning, Development (GOLD) Program, University of Washington Libraries
 * September 2023-Present
 * An in-depth growth and learning experience for staff to:
@@ -294,18 +317,22 @@ Perform physical processing, inventory, arrangement, and description of archival
     * Profiles Working Group (LD4P2)
     * Non-Latin Script Affinity Group (LD4P2-Present)
     * Wikidata Affinity Group (LD4P2-Present)
+         * Wikidata Affinity Group Coordination Group (2024-Present)
     * Ethics in Linked Data Affinity Group (LD4P2-Present)
     * PCC Cataloging in Sinopia Affinity Group (LD4P3-Present)
     * Rare Materials Affinity Group (LD4P2-Present)
     * Sinopia User Group (LD4P2-Present)
 * American Library Association (ALA) Member
     * ALA Core MARC Formats Transition Interest Group
-        * Co-Chair, 2024-2025    
+        * Co-Chair, 2024-2025
+    * CC:DA Task Force to Prepare the ALA Response to RSC/ExtentWG/2024/1 (August-September, 2024)
 ### Local
+* UW Libraries DEI Working Group: Recruitment & Retention (August 2024-Present)
 * Orbis Cascade Alliance Shared Content & Technical Services Cataloging Standing Group (SCTS-CSG) (June 2022-Present)
     * Chair 2023-2024
 * University of Washington Libraries Linked Data Team (2017-Present)
 * University of Washington Libraries Metadata Implementation Group (2017-Present)
+      * Convener (2024-Present)
 * University of Washington Information School [iSTAMP Program](https://ischool.uw.edu/alumni/get-involved/istamp) Mentor (2022-Present)
 * Search Committee: Library Specialist I: Humanities Cataloger. University of Washington Libraries (February 2024-Present)
 * Search Committee: Library Specialist II: Rare Books Cataloger. University of Washington Libraries (2022-2023)
