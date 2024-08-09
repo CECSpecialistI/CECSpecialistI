@@ -245,7 +245,7 @@ Perform physical processing, inventory, arrangement, and description of archival
     * Evaluate a variety of content types appropriate for inclusion in an institutional repository, and consider diverse strategies for using the repository to meet the scholarly needs of the campus community
     * Identify best practices for making repository content fully accessible and develop workflows for remediating inaccessible repository content
 ### Husky Growth, Opportunity, Learning, Development (GOLD) Program, University of Washington Libraries
-* September 2023-Present
+* September 2023-April 2024
 * An in-depth growth and learning experience for staff to:
     * Strengthen personal confidence
     * Learn effective self-management tools
