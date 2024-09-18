@@ -103,8 +103,12 @@ Perform physical processing, inventory, arrangement, and description of archival
 * Continuation of previous international collaborative work on gender representation & related ethical issues in Wikidata which began in 2021
 #### [SCTS Cataloging Standing Group Retrospective Homosaurus Implementation Project](https://www.orbiscascade.org/programs/scts/technical-services/csg/homosaurus-implementation-project/)
 * October 2023-Present
-* Chair, SCTS-CSG
-* As Chair of the Orbis Cascade Alliance Cataloging Standing Group, lead the planning and execution of a consortium-wide project to retrospectively enhance bibliographic records in the shared catalog with Homosaurus terms. Batches of shared records will be systematically enhanced with Homosaurus terms by over fifty volunteers across the Alliance. Following the previous year's three-part training led by Homosaurus Editorial Board Member Adrian Williams, plan and launch the implementation project. Develop project documentation from scratch, and recruit and train volunteers, including about thirty non-catalogers.
+* Chair, SCTS-CSG [October 2023-August 2024]; CSG Member [August 2024-Present]
+* As Chair of the Orbis Cascade Alliance Cataloging Standing Group, lead the planning and execution of a consortium-wide project to retrospectively enhance bibliographic records in the shared catalog with Homosaurus terms. Batches of shared records will be systematically enhanced with Homosaurus terms by over fifty volunteers across the Alliance. Following the previous year's three-part training led by Homosaurus Editorial Board Member Adrian Williams, plan and launch the implementation project. Develop project documentation from scratch, and recruit and train volunteers, including about thirty non-catalogers. As a CSG member, continue to support the project and ensure its successful completion and establishment as a permanent aspect of Alliance cataloging work.
+#### iSchool Student Directed Fieldwork: MARC21 to LRM/RDA/RDF Wikibase Cloud Instance Coding Project
+* Autumn 2024
+* Supervise Wikibase Cloud directed fieldwork of iSchool student Ying-Hsiang Huang
+* Facilitate student work in adapting code shared and originally developed by colleagues at Open Knowledge Greece and the National Library of Greece for use in a Wikibase Cloud Instance to hold output data for the MARC21 Bibliographic to LRM/RDA/RDF Mapping and Transformation Project. The project will involve collaboration with project team members, original code developers, and developers working on Wikibase Cloud at Wikimedia Deutschland and is essential to the successful publication of results of the larger mapping and transformation project
 #### iSchool Student Directed Fieldwork: Data Modeling
 * Summer 2024
 * Supervise data modeling directed fieldwork of iSchool student Fer Palomares Carranco
@@ -201,6 +205,9 @@ Perform physical processing, inventory, arrangement, and description of archival
 * Catalog many original pieces featured in the exhibit
 ## Presentations
 ### National/International
+* [Upcoming] MARC21 bibliographic to LRM/RDA/RDF mapping and conversion project. 16th Sementic Web in Libraries Conference, November 2024 (co-presented with Junghae Lee and Cypress Payne)
+* [Upcoming] LCCNbot: Creating connections between the Library of Congress Name Authority File (LCNAF) and Wikidata. Building Community for Linked Open Data, LD4 Conference on Linked Data, October 2024 (co-presented with Mary Campany, Kelly Davis, Sasha Frizzall, and Elizabeth Plantz)
+* [Upcoming] [Homosaurus Implementation Project presentation]. Building Community for Linked Open Data, LD4 Conference on Linked Data, October 2024 (co-presented with Rose Krause)
 * Fostering Equity: Harnessing Community Engagement for Queer Inclusivity in Wikidata. Queer Data Days (Wikidata Gender Diversity Project), March 15, 2024. [slides](https://docs.google.com/presentation/d/1lnJUx9ZtlO7s71Hz-qBlGEJ1n-94aqUUf6XhVLlw_ug/edit?usp=sharing)
 * EMCO for Everyone: Broadening PCC Participation with a New Cooperative for Entity Management. PCC Virtual Participants Meeting, February 15, 2024 (co-presented with Jennifer Liss) [slides](https://docs.google.com/presentation/d/1QAMjxiqFboB6FesOZiZ_i9rrImaPRSKsk7qhM334Ia8/edit?usp=sharing)
 * Modelling Gender. Wikidata Data Modelling Days, November 30-December 2, 2023 (co-presented with Arielle Rodriguez, Beatrice Melis, Chiara Paolini, Daniele Metilli, and Marta Fioravanti) [recording](https://www.youtube.com/watch?v=AkBD5AKmY0M)
@@ -222,6 +229,7 @@ Perform physical processing, inventory, arrangement, and description of archival
 * Linked Open Data Production and Publishing Workflow at the University of Washington Libraries. TSWE-IG Meeting, ALA Midwinter Conference, January 2019 (co-presented with Benjamin Riesenberg and Theo Gerontakos)
 
 ### Local
+* [Upcoming] Homosaurus Rex: Unleashing the Power of Community-Driven Alternative Controlled Vocabulary Implementation. Orbis Cascade Alliance SCTS Days conference, October 2024 (co-presented with Holly Wheeler)
 * Homosaurus Implementation Project (HIP): A Project of the Alliance SCTS Cataloging Standing Group (Information Session). SCTS Special Session, January 2024 (co-presented with Jan Juliani and Caroline Reul)[slides](https://docs.google.com/presentation/d/1LHqVO2WbU3VnQpRadZ1emmT5XAAnKv-JmKv1fajSTIY/edit?usp=sharing) [recording](https://www.youtube.com/watch?v=dH1z_Qm7mIo)
 * Retrospective Homosaurus Implementation, November 2023 (lightning talk presented at Live with C&C Meeting) [slides](https://docs.google.com/presentation/d/11U15TjwFReuDyLnJ7lK8QUbqZFgz9iTnH6SmUIVRTGo/edit?usp=sharing)
 * From EAD to MARC to Wikidata and Back Again : Tools and Workflows for Archival Metadata at the University of Washington Libraries, October 2023 (co-presented with Adam Schiff and Eulalie Mathieu) [recording](https://drive.google.com/drive/folders/1YbgADRu4jNTMguoj1fgcVHDbgEGk7-za)
