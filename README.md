@@ -353,6 +353,7 @@ Perform physical processing, inventory, arrangement, and description of archival
 ## Publications
 ### Author
 * The Queer Metadata Collective, Adolpho, K., Bailund, A., Beck, E., Bradshaw, J., Butler, E., Bárcenas, B., Caelin, M., Carpenter, R., Day, A., Day, T., Dixon, D., Dover, A., Frizzell, S., Goodrich, G., Hendrickson, B. L., Keller, T., Misorski, C., Murphy, D., … Yragui, C. (2024). Best Practices for Queer Metadata (1.0). Zenodo. [https://doi.org/10.5281/zenodo.12580531](https://doi.org/10.5281/zenodo.12580531) 
+* The Secret Life of UW Libraries Catalogers and Metadata Specialists: Student Spotlight: Ally Okun, UW Libraries Blog. October 1, 2024. [read](https://sites.uw.edu/libstrat/2024/10/01/the-secret-life-of-uw-libraries-catalogers-and-metadata-specialists-3/)
 * The Secret Life of UW Libraries Catalogers and Metadata Specialists: Student Spotlight: Valerie Rollins, UW Libraries Blog. March 12, 2024. [read](https://sites.uw.edu/libstrat/2024/03/12/the-secret-life-of-uw-libraries-catalogers-and-metadata-specialists-spotlight/)
 * The Secret Life of UW Libraries Catalogers and Metadata Specialists: Student Spotlight: Zhuo Pan, UW Libraries Blog. January 22, 2024. [read](https://sites.uw.edu/libstrat/2024/01/22/the-secret-life-of-uw-libraries-catalogers-and-metadata-specialists-2/)
 * The Secret Life of UW Libraries Catalogers and Metadata Specialists: Student Spotlight: Melissa Morgan, UW Libraries Blog. October 11, 2023. [read](https://sites.uw.edu/libstrat/2023/10/11/the-secret-life-of-uw-libraries-catalogers-and-metadata-specialists/)
