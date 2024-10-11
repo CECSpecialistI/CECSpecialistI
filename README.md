@@ -206,8 +206,8 @@ Perform physical processing, inventory, arrangement, and description of archival
 ## Presentations
 ### National/International
 * [Upcoming] MARC21 bibliographic to LRM/RDA/RDF mapping and conversion project. 16th Sementic Web in Libraries Conference, November 2024 (co-presented with Junghae Lee and Cypress Payne)
-* [Upcoming] LCCNbot: Creating connections between the Library of Congress Name Authority File (LCNAF) and Wikidata. Building Community for Linked Open Data, LD4 Conference on Linked Data, October 2024 (co-presented with Mary Campany, Kelly Davis, Sasha Frizzall, and Elizabeth Plantz)
-* [Upcoming] [Homosaurus Implementation Project presentation]. Building Community for Linked Open Data, LD4 Conference on Linked Data, October 2024 (co-presented with Rose Krause)
+* LCCNbot: Creating connections between the Library of Congress Name Authority File (LCNAF) and Wikidata. Building Community for Linked Open Data, LD4 Conference on Linked Data, October 2024 (co-presented with Mary Campany, Kelly Davis, and Sasha Frizzell)
+* Enhancing Search and Discovery for LGBTQIA+ Materials at the Orbis Cascade Alliance and Beyond: a Tour of the Homosaurus Implementation Project. Building Community for Linked Open Data, LD4 Conference on Linked Data, October 2024 (co-presented with Rose Krause)
 * Fostering Equity: Harnessing Community Engagement for Queer Inclusivity in Wikidata. Queer Data Days (Wikidata Gender Diversity Project), March 15, 2024. [slides](https://docs.google.com/presentation/d/1lnJUx9ZtlO7s71Hz-qBlGEJ1n-94aqUUf6XhVLlw_ug/edit?usp=sharing)
 * EMCO for Everyone: Broadening PCC Participation with a New Cooperative for Entity Management. PCC Virtual Participants Meeting, February 15, 2024 (co-presented with Jennifer Liss) [slides](https://docs.google.com/presentation/d/1QAMjxiqFboB6FesOZiZ_i9rrImaPRSKsk7qhM334Ia8/edit?usp=sharing)
 * Modelling Gender. Wikidata Data Modelling Days, November 30-December 2, 2023 (co-presented with Arielle Rodriguez, Beatrice Melis, Chiara Paolini, Daniele Metilli, and Marta Fioravanti) [recording](https://www.youtube.com/watch?v=AkBD5AKmY0M)
