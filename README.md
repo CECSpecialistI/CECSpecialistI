@@ -1,6 +1,7 @@
 # Crystal E. Yragui
 * cec23@uw.edu
 * https://www.wikidata.org/wiki/User:Clements.UWLib
+* https://namedrop.io/crystalyragui
 * Cataloging and Metadata Services <br>
   University of Washington Libraries <br>
   Box 352900 <br>
