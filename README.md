@@ -230,7 +230,8 @@ Perform physical processing, inventory, arrangement, and description of archival
 * Linked Open Data Production and Publishing Workflow at the University of Washington Libraries. TSWE-IG Meeting, ALA Midwinter Conference, January 2019 (co-presented with Benjamin Riesenberg and Theo Gerontakos)
 
 ### Local
-* [Upcoming] Homosaurus Rex: Unleashing the Power of Community-Driven Alternative Controlled Vocabulary Implementation. Orbis Cascade Alliance SCTS Days conference, October 2024 (co-presented with Holly Wheeler)
+* Homosaurus Implementation Project (HIP): Community-Driven Linked Data Work at the Orbis Cascade Alliance. ALUW Fall Member Meeting, November 13, 2024
+* Homosaurus Rex: Unleashing the Power of Community-Driven Alternative Controlled Vocabulary Implementation. Orbis Cascade Alliance SCTS Days conference, October 2024 (co-presented with Holly Wheeler)
 * Homosaurus Implementation Project (HIP): A Project of the Alliance SCTS Cataloging Standing Group (Information Session). SCTS Special Session, January 2024 (co-presented with Jan Juliani and Caroline Reul)[slides](https://docs.google.com/presentation/d/1LHqVO2WbU3VnQpRadZ1emmT5XAAnKv-JmKv1fajSTIY/edit?usp=sharing) [recording](https://www.youtube.com/watch?v=dH1z_Qm7mIo)
 * Retrospective Homosaurus Implementation, November 2023 (lightning talk presented at Live with C&C Meeting) [slides](https://docs.google.com/presentation/d/11U15TjwFReuDyLnJ7lK8QUbqZFgz9iTnH6SmUIVRTGo/edit?usp=sharing)
 * From EAD to MARC to Wikidata and Back Again : Tools and Workflows for Archival Metadata at the University of Washington Libraries, October 2023 (co-presented with Adam Schiff and Eulalie Mathieu) [recording](https://drive.google.com/drive/folders/1YbgADRu4jNTMguoj1fgcVHDbgEGk7-za)
