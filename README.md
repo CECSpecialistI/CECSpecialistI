@@ -296,7 +296,8 @@ Cataloging | Metadata | RDA | BIBFRAME | Linked Data | Ethics in Linked Data | W
 
 ## Presentations and Publications
 ### National/International Presentations
-* [Upcoming] MARC21 bibliographic to LRM/RDA/RDF mapping and conversion project. 16th Sementic Web in Libraries Conference, November 2024 (co-presented with Junghae Lee and Cypress Payne)
+* BIBFRAME Implementation in Library Systems. ALA Core MARC Formats Transition Interest Group Community Meeting, December 4, 2024 (Co-Chair) 
+* MARC21 bibliographic to LRM/RDA/RDF mapping and conversion project. 16th Sementic Web in Libraries Conference, November 2024 (co-presented with Junghae Lee and Cypress Payne)
 * Lexicographical Data. LD4 (Linked Data for …) Wikidata Affinity Group Project Series. November-December 2024 (Series coordinator. Series facilitated by Mahir Morshed) [link](https://www.wikidata.org/wiki/Wikidata:WikiProject_LD4_Wikidata_Affinity_Group/Affinity_Group_Calls/Second_Project_Series)
 * LCCNbot: Creating connections between the Library of Congress Name Authority File (LCNAF) and Wikidata. Building Community for Linked Open Data, LD4 Conference on Linked Data, October 2024 (co-presented with Mary Campany, Kelly Davis, and Sasha Frizzell)
 * Enhancing Search and Discovery for LGBTQIA+ Materials at the Orbis Cascade Alliance and Beyond: a Tour of the Homosaurus Implementation Project. Building Community for Linked Open Data, LD4 Conference on Linked Data, October 2024 (co-presented with Rose Krause)
