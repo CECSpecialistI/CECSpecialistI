@@ -193,11 +193,12 @@ Cataloging | Metadata | RDA | BIBFRAME | Linked Data | Ethics in Linked Data | W
 
 ### Supervisor: Student Directed Fieldwork, University of Washington Information School; University of Washington Libraries
 * 2019-Present
-#### [Upcoming] Cartographic and Monographic Cataloging
+#### [Upcoming] Cartographic Cataloging and Homosaurus Implementation
 * 2025
 * Supervise iSchool student Rachel Palfini
-* Teach copy cataloging, original cataloging, Ex Libris Alma, OCLC Connexion, subject analysis, atlas and monographic bibliographic description, NACO and SACO contribution, and application of vocabularies such as Wikidata and Homosaurus as required
-* Student learns to catalog using Program for Cooperative Cataloging (PCC) BIBCO and Resource Description and Access standards as appropriate
+* Teach copy cataloging, original cataloging, Ex Libris Alma, OCLC Connexion, subject analysis, cartographic bibliographic description, NACO and SACO contribution, Homosaurus contribution, and application of additional vocabularies such as RBMS as required
+* Student learns to catalog using Program for Cooperative Cataloging (PCC) BIBCO, Resource Description and Access (RDA), DCRM(C), DCRMR, and PCC Provider-neutral standards as appropriate
+* Onboard student to the Orbis Cascade Alliance Homosaurus Implementation Project and provide them with one-on-one training
 
 #### MARC21 to LRM/RDA/RDF Wikibase Cloud Project
 * 2024
