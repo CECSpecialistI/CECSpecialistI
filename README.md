@@ -297,6 +297,7 @@ Cataloging | Metadata | RDA | BIBFRAME | Linked Data | Ethics in Linked Data | W
 
 ## Presentations and Publications
 ### National/International Presentations
+* [Upcoming] Homosaurus Unleashed: A Panel on Transforming LGBTQ+ Subject Access in Libraries. ALA Annual Conference & Exhibition, June 26-30, 2025 (co-presenting with Sal Hamerman, Dominique Dixon and Brinna Michael)
 * [Upcoming] Conversion of MARC21 Bibliographic to LRM/RDA/RDF: Setting the Stage and Creating the Tools. Metadata Standards Matter: Building a Sustainable Future for Information, IFLA Symposium, March 2025 (co-presenting with Sofia Zapounidou. co-authored with Ebe Kartus and Laura Akerman)
 * BIBFRAME Implementation in Library Systems. ALA Core MARC Formats Transition Interest Group Community Meeting, December 4, 2024 (Co-Chair) 
 * MARC21 bibliographic to LRM/RDA/RDF mapping and conversion project. 16th Sementic Web in Libraries Conference, November 2024 (co-presented with Junghae Lee and Cypress Payne)
