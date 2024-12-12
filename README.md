@@ -296,6 +296,7 @@ Cataloging | Metadata | RDA | BIBFRAME | Linked Data | Ethics in Linked Data | W
 
 ## Presentations and Publications
 ### National/International Presentations
+* [Upcoming] Conversion of MARC21 Bibliographic to LRM/RDA/RDF: Setting the Stage and Creating the Tools. Metadata Standards Matter: Building a Sustainable Future for Information, IFLA Symposium, March 2025 (co-presenting with Sofia Zapounidou. co-authored with Ebe Kartus and Laura Akerman)
 * BIBFRAME Implementation in Library Systems. ALA Core MARC Formats Transition Interest Group Community Meeting, December 4, 2024 (Co-Chair) 
 * MARC21 bibliographic to LRM/RDA/RDF mapping and conversion project. 16th Sementic Web in Libraries Conference, November 2024 (co-presented with Junghae Lee and Cypress Payne)
 * Lexicographical Data. LD4 (Linked Data for …) Wikidata Affinity Group Project Series. November-December 2024 (Series coordinator. Series facilitated by Mahir Morshed) [link](https://www.wikidata.org/wiki/Wikidata:WikiProject_LD4_Wikidata_Affinity_Group/Affinity_Group_Calls/Second_Project_Series)
@@ -343,7 +344,11 @@ Cataloging | Metadata | RDA | BIBFRAME | Linked Data | Ethics in Linked Data | W
 * Watson, B. Provo, A. Burlingame, K. (Eds.) Ethics in Linked Data, Library Juice Press. 2023.
 
 ## Training
-### Antiracist Leadership Institute](https://www.washington.edu/diversity/antiracist-leadership-institute/), University of Washington
+### Implementing Equitable Hiring Practices, University of Washington Professional & Organizational Development
+* 2025
+* Two-day course which equips participants to plan and carry out an effective and equitable hiring process, from posting to interviewing and candidate selection. Covers ways to make the process more inclusive and accessible, emphasizing equity-focused and bias-mitigating best practices
+
+### [Antiracist Leadership Institute](https://www.washington.edu/diversity/antiracist-leadership-institute/), University of Washington
 * 2025
 * Two-day leadership program with frameworks grounded in humanist and anti-racist practice inspired by African Ubuntu cultural and philosophical perspectives
 * Covers issues related to justice, equity, diversity, inclusion, belonging, and strategies
@@ -468,6 +473,9 @@ Attended two concurrent workshops offered by Orbis Cascade Alliance and NNLM Reg
 
 #### Mentor: [iSTAMP Program](https://ischool.uw.edu/alumni/get-involved/istamp), University of Washington Information School
 * 2022-Present
+
+#### Chair: Search Committee: Library Specialist I: Metadata Technical Specialist. University of Washington Libraries
+* 2024-2025
 
 #### Search Committee: Library Specialist I: Humanities Cataloger. University of Washington Libraries
 * 2024
