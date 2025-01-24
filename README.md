@@ -193,7 +193,7 @@ Cataloging | Metadata | RDA | BIBFRAME | Linked Data | Ethics in Linked Data | W
 
 ### Supervisor: Student Directed Fieldwork, University of Washington Information School; University of Washington Libraries
 * 2019-Present
-#### [Upcoming] Cartographic Cataloging and Homosaurus Implementation
+#### Cartographic Cataloging and Homosaurus Implementation
 * 2025
 * Supervise iSchool student Rachel Palfini
 * Teach copy cataloging, original cataloging, Ex Libris Alma, OCLC Connexion, subject analysis, cartographic bibliographic description, NACO and SACO contribution, Homosaurus contribution, and application of additional vocabularies such as RBMS as required
@@ -298,7 +298,7 @@ Cataloging | Metadata | RDA | BIBFRAME | Linked Data | Ethics in Linked Data | W
 ## Presentations and Publications
 ### National/International Presentations
 * [Upcoming] Homosaurus Unleashed: A Panel on Transforming LGBTQ+ Subject Access in Libraries. ALA Annual Conference & Exhibition, June 26-30, 2025 (co-presenting with Sal Hamerman, Dominique Dixon and Brinna Michael)
-* [Upcoming] Conversion of MARC21 Bibliographic to LRM/RDA/RDF: Setting the Stage and Creating the Tools. Metadata Standards Matter: Building a Sustainable Future for Information, IFLA Symposium, March 2025 (co-presenting with Sofia Zapounidou. co-authored with Ebe Kartus and Laura Akerman)
+* [Upcoming] Conversion of MARC21 Bibliographic to LRM/RDA/RDF: Setting the Stage and Creating the Tools. Metadata Standards Matter: Building a Sustainable Future for Information, IFLA Symposium, Athens, Greece. March 2025 (co-presenting with Sofia Zapounidou. co-authored with Ebe Kartus and Laura Akerman)
 * BIBFRAME Implementation in Library Systems. ALA Core MARC Formats Transition Interest Group Community Meeting, December 4, 2024 (Co-Chair) 
 * MARC21 bibliographic to LRM/RDA/RDF mapping and conversion project. 16th Sementic Web in Libraries Conference, November 2024 (co-presented with Junghae Lee and Cypress Payne)
 * Lexicographical Data. LD4 (Linked Data for …) Wikidata Affinity Group Project Series. November-December 2024 (Series coordinator. Series facilitated by Mahir Morshed) [link](https://www.wikidata.org/wiki/Wikidata:WikiProject_LD4_Wikidata_Affinity_Group/Affinity_Group_Calls/Second_Project_Series)
@@ -325,6 +325,7 @@ Cataloging | Metadata | RDA | BIBFRAME | Linked Data | Ethics in Linked Data | W
 * Linked Open Data Production and Publishing Workflow at the University of Washington Libraries. TSWE-IG Meeting, ALA Midwinter Conference, January 2019 (co-presented with Benjamin Riesenberg and Theo Gerontakos)
 
 ### Local Presentations
+* [Upcoming] Harmful Language Metadata Remediation at the University of Washington Libraries. Live with C&C Session, February 2025 (co-presented with Erin Grant, Martha McTear, Junghae Lee, Andrew Weaver, Emily Shane, Julie Moede, and Keiko Hill)
 * Homosaurus Implementation Project (HIP): Community-Driven Linked Data Work at the Orbis Cascade Alliance. ALUW Fall Member Meeting, November 13, 2024
 * Homosaurus Rex: Unleashing the Power of Community-Driven Alternative Controlled Vocabulary Implementation. Orbis Cascade Alliance SCTS Days conference, October 2024 (co-presented with Holly Wheeler)
 * Homosaurus Implementation Project (HIP): A Project of the Alliance SCTS Cataloging Standing Group (Information Session). SCTS Special Session, January 2024 (co-presented with Jan Juliani and Caroline Reul)[slides](https://docs.google.com/presentation/d/1LHqVO2WbU3VnQpRadZ1emmT5XAAnKv-JmKv1fajSTIY/edit?usp=sharing) [recording](https://www.youtube.com/watch?v=dH1z_Qm7mIo)
@@ -335,6 +336,7 @@ Cataloging | Metadata | RDA | BIBFRAME | Linked Data | Ethics in Linked Data | W
 * Linked Data at the University of Washington Libraries. March 2019 (co-presented with Benjamin Riesenberg and Theo Gerontakos)
 
 ### Publications: Author
+* [Upcoming] BIBFRAME Implementation in Library Systems. Technical Services Quarterly Report, 2025 (co-authored with Sai Deng)
 * The Queer Metadata Collective, Adolpho, K., Bailund, A., Beck, E., Bradshaw, J., Butler, E., Bárcenas, B., Caelin, M., Carpenter, R., Day, A., Day, T., Dixon, D., Dover, A., Frizzell, S., Goodrich, G., Hendrickson, B. L., Keller, T., Misorski, C., Murphy, D., … Yragui, C. (2024). Best Practices for Queer Metadata (1.0). Zenodo. [https://doi.org/10.5281/zenodo.12580531](https://doi.org/10.5281/zenodo.12580531) 
 * The Secret Life of UW Libraries Catalogers and Metadata Specialists: Student Spotlight: Ally Okun, UW Libraries Blog. October 1, 2024. [read](https://sites.uw.edu/libstrat/2024/10/01/the-secret-life-of-uw-libraries-catalogers-and-metadata-specialists-3/)
 * The Secret Life of UW Libraries Catalogers and Metadata Specialists: Student Spotlight: Valerie Rollins, UW Libraries Blog. March 12, 2024. [read](https://sites.uw.edu/libstrat/2024/03/12/the-secret-life-of-uw-libraries-catalogers-and-metadata-specialists-spotlight/)
