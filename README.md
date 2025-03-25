@@ -299,7 +299,7 @@ Cataloging | Metadata | RDA | BIBFRAME | Linked Data | Ethics in Linked Data | W
 ### National/International Presentations
 * [Upcoming] Assessing Metadata for Diversity, Equity, Inclusion, and Accessibility in Cultural Heritage Institutions. ALA Annual Conference & Exhibition, June 26-30, 2025 (co-presenting with Rachel Wittmann, Kaylee Alexander, and Anna Neatrour)
 * [Upcoming] Homosaurus Unleashed: A Panel on Transforming LGBTQ+ Subject Access in Libraries. ALA Annual Conference & Exhibition, June 26-30, 2025 (co-presenting with Sal Hamerman, Dominique Dixon and Brinna Michael)
-* [Upcoming] Conversion of MARC21 Bibliographic to LRM/RDA/RDF: Setting the Stage and Creating the Tools. Metadata Standards Matter: Building a Sustainable Future for Information, IFLA Symposium, Athens, Greece. March 2025 (co-presenting with Sofia Zapounidou. co-authored with Ebe Kartus and Laura Akerman)
+* Conversion of MARC21 Bibliographic to LRM/RDA/RDF: Setting the Stage and Creating the Tools. Metadata Standards Matter: Building a Sustainable Future for Information, IFLA Symposium, Athens, Greece. March 2025 (co-presented with Sofia Zapounidou. co-authored with Ebe Kartus and Laura Akerman)
 * New Initiatives at PCC: Entity Management Cooperative (EMCO). PCC Participants Meeting, February 13, 2025 (co-presented with Jennifer Liss)
 * BIBFRAME Implementation in Library Systems. ALA Core MARC Formats Transition Interest Group Community Meeting, December 4, 2024 (Co-Chair) 
 * MARC21 bibliographic to LRM/RDA/RDF mapping and conversion project. 16th Sementic Web in Libraries Conference, November 2024 (co-presented with Junghae Lee and Cypress Payne)
@@ -338,6 +338,7 @@ Cataloging | Metadata | RDA | BIBFRAME | Linked Data | Ethics in Linked Data | W
 * Linked Data at the University of Washington Libraries. March 2019 (co-presented with Benjamin Riesenberg and Theo Gerontakos)
 
 ### Publications: Author
+* MARC Discussion Paper No. 2025-DP04. (December 18, 2024). MARC Development. [read](https://www.loc.gov/marc/mac/2025/2025-dp04.html) 
 * [Upcoming] BIBFRAME Implementation in Library Systems. Technical Services Quarterly Report, 2025 (co-authored with Sai Deng)
 * The Queer Metadata Collective, Adolpho, K., Bailund, A., Beck, E., Bradshaw, J., Butler, E., Bárcenas, B., Caelin, M., Carpenter, R., Day, A., Day, T., Dixon, D., Dover, A., Frizzell, S., Goodrich, G., Hendrickson, B. L., Keller, T., Misorski, C., Murphy, D., … Yragui, C. (2024). Best Practices for Queer Metadata (1.0). Zenodo. [https://doi.org/10.5281/zenodo.12580531](https://doi.org/10.5281/zenodo.12580531) 
 * The Secret Life of UW Libraries Catalogers and Metadata Specialists: Student Spotlight: Ally Okun, UW Libraries Blog. October 1, 2024. [read](https://sites.uw.edu/libstrat/2024/10/01/the-secret-life-of-uw-libraries-catalogers-and-metadata-specialists-3/)
