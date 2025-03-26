@@ -42,12 +42,12 @@
         * ACRL Rare Books and Manuscripts Section (RBMS) vocabularies (RBMSCV)
         * Getty Art & Architecture Thesaurus (AAT)
         * Homosaurus
-* Contribute headings to the national authority file and Library of Congress Classification through Name Authority Cooperative Program (NACO) and Subject Authority Cooperative Program (SACO) (independent on personal name headings)
+* Contribute headings to the National Authority File and Library of Congress Classification through Name Authority Cooperative Program (NACO) and Subject Authority Cooperative Program (SACO) (independent on personal name headings)
 * Participate in the PCC Monographic Bibliographic Record Cooperative Program (BIBCO) by authorizing, creating, and enhancing full-level BIBCO records in OCLC Connexion
 * Participate in OCLC Member Merge program to merge duplicate records for print and electronic books and maps in the OCLC Connexion environment; train others at UW Libraries to do the same
 * Contribute to the UW Libraries and the profession through productive service in professional associations, consortial activities, and University Libraries committees and task forces
 
-### Project Manager: MARC21 to [LRM/RDA/RDF Mapping Project](https://github.com/uwlib-cams/MARC2RDA), University of Washington Libraries
+### Project Supervisor: MARC21 to [LRM/RDA/RDF Mapping Project](https://github.com/uwlib-cams/MARC2RDA), University of Washington Libraries
 * 2021-Present
 * Coordinate international effort to create a robust mapping and corresponding conversion tool between the MARC21 Bibliographic standard and LRM/RDA/RDF
 * Facilitate weekly working meetings with catalogers and data scientists from across the United States, New Zealand, Greece, Scotland, and the Netherlands
@@ -187,12 +187,20 @@ Cataloging | Metadata | RDA | BIBFRAME | Linked Data | Ethics in Linked Data | W
 ## Teaching Experience
 ### Graduate Student Metadata Mentor: MARC21 Bibliographic to LRM/RDA/RDF Mapping and Transformation Project, University of Washington Libraries
 * 2021-Present
-* Students: Zhuo Pan, Melissa Morgan, Alice Chung, Cypress Payne, Penyang Sun, Ying-Hsiang Huang, Doreen Chen, Sara Hruska, Tynan Challenor
+* Students: Zhuo Pan, Melissa Morgan, Alice Chung, Cypress Payne, Pengyan Sun, Ying-Hsiang Huang, Doreen Chen, Sara Hruska, Tynan Challenor
 * Teach students the MARC21 Bibliographic standard, the RDA/RDF ontology, and mapping and transforming metadata between the two
 * Plug students into an international team of knowledge organization experts 
 
 ### Supervisor: Student Directed Fieldwork, University of Washington Information School; University of Washington Libraries
 * 2019-Present
+
+#### Electronic Thesis and Dissertation Cataloging and Homosaurus Implementation
+* 2025
+* Supervise iSchool students Sarah Collins, Eulalie Mathieu, and Sinthuri Sentamilselvan
+* Teach copy cataloging, original cataloging, Ex Libris Alma, OCLC Connexion, subject analysis, cartographic bibliographic description, NACO and SACO contribution, Homosaurus contribution, and application of additional vocabularies such as RBMS as required
+* Students learn to catalog using Program for Cooperative Cataloging (PCC) BIBCO, Resource Description and Access (RDA), DCRM(C), DCRMR, and PCC Provider-neutral standards as appropriate using hybrid modalities in a group setting
+* Onboard students to the Orbis Cascade Alliance Homosaurus Implementation Project and provide them with one-on-one and group training
+
 #### Cartographic Cataloging and Homosaurus Implementation
 * 2025
 * Supervise iSchool student Rachel Palfini
@@ -297,8 +305,8 @@ Cataloging | Metadata | RDA | BIBFRAME | Linked Data | Ethics in Linked Data | W
 
 ## Presentations and Publications
 ### National/International Presentations
-* [Upcoming] Assessing Metadata for Diversity, Equity, Inclusion, and Accessibility in Cultural Heritage Institutions. ALA Annual Conference & Exhibition, June 26-30, 2025 (co-presenting with Rachel Wittmann, Kaylee Alexander, and Anna Neatrour)
-* [Upcoming] Homosaurus Unleashed: A Panel on Transforming LGBTQ+ Subject Access in Libraries. ALA Annual Conference & Exhibition, June 26-30, 2025 (co-presenting with Sal Hamerman, Dominique Dixon and Brinna Michael)
+* Assessing Metadata for Diversity, Equity, Inclusion, and Accessibility in Cultural Heritage Institutions. ALA Annual Conference & Exhibition, June 26-30, 2025 (co-presenting with Rachel Wittmann, Kaylee Alexander, and Anna Neatrour)
+* Homosaurus Unleashed: A Panel on Transforming LGBTQ+ Subject Access in Libraries. ALA Annual Conference & Exhibition, June 26-30, 2025 (co-presenting with Sofia Slutskaya, Sal Hamerman, Dominique Dixon and Brinna Michael)
 * Conversion of MARC21 Bibliographic to LRM/RDA/RDF: Setting the Stage and Creating the Tools. Metadata Standards Matter: Building a Sustainable Future for Information, IFLA Symposium, Athens, Greece. March 2025 (co-presented with Sofia Zapounidou. co-authored with Ebe Kartus and Laura Akerman)
 * New Initiatives at PCC: Entity Management Cooperative (EMCO). PCC Participants Meeting, February 13, 2025 (co-presented with Jennifer Liss)
 * BIBFRAME Implementation in Library Systems. ALA Core MARC Formats Transition Interest Group Community Meeting, December 4, 2024 (Co-Chair) 
@@ -327,7 +335,7 @@ Cataloging | Metadata | RDA | BIBFRAME | Linked Data | Ethics in Linked Data | W
 * Linked Open Data Production and Publishing Workflow at the University of Washington Libraries. TSWE-IG Meeting, ALA Midwinter Conference, January 2019 (co-presented with Benjamin Riesenberg and Theo Gerontakos)
 
 ### Local Presentations
-* [Upcoming] Harmful Language Metadata Remediation at the University of Washington Libraries. Live with C&C Session, February 2025 (co-presented with Erin Grant, Martha McTear, Junghae Lee, Andrew Weaver, Emily Shane, Julie Moede, and Keiko Hill)
+* Harmful Language Metadata Remediation at the University of Washington Libraries. Live with C&C Session, February 2025 (co-presented with Erin Grant, Martha McTear, Junghae Lee, and Amy Entze)
 * Homosaurus Implementation Project (HIP): Community-Driven Linked Data Work at the Orbis Cascade Alliance. ALUW Fall Member Meeting, November 13, 2024
 * Homosaurus Rex: Unleashing the Power of Community-Driven Alternative Controlled Vocabulary Implementation. Orbis Cascade Alliance SCTS Days conference, October 2024 (co-presented with Holly Wheeler)
 * Homosaurus Implementation Project (HIP): A Project of the Alliance SCTS Cataloging Standing Group (Information Session). SCTS Special Session, January 2024 (co-presented with Jan Juliani and Caroline Reul)[slides](https://docs.google.com/presentation/d/1LHqVO2WbU3VnQpRadZ1emmT5XAAnKv-JmKv1fajSTIY/edit?usp=sharing) [recording](https://www.youtube.com/watch?v=dH1z_Qm7mIo)
@@ -481,6 +489,9 @@ Attended two concurrent workshops offered by Orbis Cascade Alliance and NNLM Reg
 #### Mentor: [iSTAMP Program](https://ischool.uw.edu/alumni/get-involved/istamp), University of Washington Information School
 * 2022-Present
 
+#### University of Washington Libraries Public Web Operations Group (PWOG)
+* 2025-Present
+
 #### Chair: Search Committee: Library Specialist I: Metadata Technical Specialist. University of Washington Libraries
 * 2024-2025
 
@@ -527,7 +538,7 @@ Attended two concurrent workshops offered by Orbis Cascade Alliance and NNLM Reg
 Original and Official Resource Description and Access (RDA) | Anglo-American Cataloging Rules, Second Edition (AACR2) | Program for Cooperative Cataloging (PCC) Name Authority Cooperative Program (NACO) | PCC Subject Authority Cooperative Program (SACO) | PCC Entity Management Cooperative Program (EMCO) | PCC Bibliographic Cooperative Program (BIBCO) | Library of Congress Classification | Dewey Decimal Classification | Descriptive Cataloging of Rare Materials (DCRM), DCRM(B), DCRM(C) | Describing Archives: A Content Standard (DACS) | Ethics in knowledge organization
 
 ### Technical and Linked Data
-Communication with technical and non-technical audiences | MARC21 Bibliographic & Authority Standards | OCLC tools & Services including Connexion Client, Record Manager, and Meridian | Ex Libris products including Alma, Primo, and Cloud apps | MarcEdit | OpenRefine | ContentDM | Wikimedia projects, particularly Wikidata, Wikipedia and Wikimedia Commons | BIBFRAME | Sinopia | Library of Congress MARVA BIBFRAME Editor | Metadata application profiles and data dictionaries | Resource Description Framework (RDF) | RDF Mapping Language (RML) | RDA Ontology | Dublin Core Ontology | DPLA MAP | RBMS Ontology | Library of Congress Ontologies and Vocabularies | SPARQL (RDF querying language) | RDF validation (SHeX, SHACL) | XML | Plone | Git and GitHub | Some exposure to: Linux, Java, Python/Jupyter Notebooks, Apache Jena Fuseki
+Communication with technical and non-technical audiences | MARC21 Bibliographic & Authority Standards | OCLC tools & Services including Connexion Client, Record Manager, and Meridian | Ex Libris products including Alma, Primo, and Cloud apps | MarcEdit | OpenRefine | ContentDM | Wikimedia projects, particularly Wikidata, Wikipedia and Wikimedia Commons | BIBFRAME | Sinopia | Library of Congress MARVA BIBFRAME Editor | Metadata application profiles and data dictionaries | Resource Description Framework (RDF) | RDF Mapping Language (RML) | RDA Ontology | Dublin Core Ontology | DPLA MAP | RBMS Ontology | Library of Congress Ontologies and Vocabularies | Homosaurus | SPARQL (RDF querying language) | RDF validation (SHeX, SHACL) | XML | Plone | Git and GitHub | Some exposure to: Linux, Java, Python/Jupyter Notebooks, Apache Jena Fuseki
 
 ### General Skills
 Training | Facilitation | Emotional intelligence | Interpersonal communication | Collaboration | Team building | Project management | Documentation | Strategic thinking
