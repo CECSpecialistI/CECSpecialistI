@@ -469,9 +469,6 @@ Attended two concurrent workshops offered by Orbis Cascade Alliance and NNLM Reg
 
 ### Local Professional Memberships and Service
 
-#### UW Libraries DEI Working Group: Recruitment & Retention 
-* 2024
-
 #### Orbis Cascade Alliance Shared Content & Technical Services Cataloging Standing Group (SCTS-CSG) 
 * 2022-Present
 * Chair, 2023-2024
@@ -493,6 +490,9 @@ Attended two concurrent workshops offered by Orbis Cascade Alliance and NNLM Reg
 * 2025-Present
 
 #### Chair: Search Committee: Library Specialist I: Metadata Technical Specialist. University of Washington Libraries
+* 2024-2025
+
+#### UW Libraries DEI Working Group: Recruitment & Retention 
 * 2024-2025
 
 #### Search Committee: Library Specialist I: Humanities Cataloger. University of Washington Libraries
