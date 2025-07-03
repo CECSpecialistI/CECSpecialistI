@@ -187,7 +187,7 @@ Cataloging | Metadata | RDA | BIBFRAME | Linked Data | Ethics in Linked Data | W
 ## Teaching Experience
 ### Graduate Student Metadata Mentor: MARC21 Bibliographic to LRM/RDA/RDF Mapping and Transformation Project, University of Washington Libraries
 * 2021-Present
-* Students: Zhuo Pan, Melissa Morgan, Alice Chung, Cypress Payne, Pengyan Sun, Ying-Hsiang Huang, Doreen Chen, Sara Hruska, Tynan Challenor
+* Students: Zhuo Pan, Melissa Morgan, Alice Chung, Cypress Payne, Pengyan Sun, Ying-Hsiang Huang, Doreen Chen, Sara Hruska, Tynan Challenor, Sarah Collins, Abhignya Rajapu
 * Teach students the MARC21 Bibliographic standard, the RDA/RDF ontology, and mapping and transforming metadata between the two
 * Plug students into an international team of knowledge organization experts 
 
@@ -306,8 +306,8 @@ Cataloging | Metadata | RDA | BIBFRAME | Linked Data | Ethics in Linked Data | W
 ## Presentations and Publications
 ### National/International Presentations
 * MARC21 TO LRM/RDA/RDF mapping and conversion project: Crossing the first big river, with mountains ahead. Linked Data in the Real World, LD4 Conference on Linked Data, July 2025 (co-presenting with Laura Akerman)
-* Assessing Metadata for Diversity, Equity, Inclusion, and Accessibility in Cultural Heritage Institutions. ALA Annual Conference & Exhibition, June 26-30, 2025 (co-presenting with Rachel Wittmann, Kaylee Alexander, and Anna Neatrour)
-* Homosaurus Unleashed: A Panel on Transforming LGBTQ+ Subject Access in Libraries. ALA Annual Conference & Exhibition, June 26-30, 2025 (co-presenting with Sofia Slutskaya, Sal Hamerman, Dominique Dixon and Brinna Michael)
+* Assessing Metadata for Diversity, Equity, Inclusion, and Accessibility in Cultural Heritage Institutions. ALA Annual Conference & Exhibition, Philadelphia, PA. June 26-30, 2025 (co-presented with Rachel Wittmann, Kaylee Alexander, and Anna Neatrour)
+* Homosaurus Unleashed: A Panel on Transforming LGBTQ+ Subject Access in Libraries. ALA Annual Conference & Exhibition, Philadelphia, PA. June 26-30, 2025 (co-presented with Sofia Slutskaya, Sal Hamerman, Dominique Dixon and Brinna Michael)
 * Conversion of MARC21 Bibliographic to LRM/RDA/RDF: Setting the Stage and Creating the Tools. Metadata Standards Matter: Building a Sustainable Future for Information, IFLA Symposium, Athens, Greece. March 2025 (co-presented with Sofia Zapounidou. co-authored with Ebe Kartus and Laura Akerman)
 * New Initiatives at PCC: Entity Management Cooperative (EMCO). PCC Participants Meeting, February 13, 2025 (co-presented with Jennifer Liss)
 * BIBFRAME Implementation in Library Systems. ALA Core MARC Formats Transition Interest Group Community Meeting, December 4, 2024 (Co-Chair) 
@@ -471,7 +471,7 @@ Attended two concurrent workshops offered by Orbis Cascade Alliance and NNLM Reg
 ### Local Professional Memberships and Service
 
 #### Orbis Cascade Alliance Shared Content & Technical Services Cataloging Standing Group (SCTS-CSG) 
-* 2022-Present
+* 2022-2025
 * Chair, 2023-2024
 
 #### Python Interest Group (PIG), University of Washington Libraries
@@ -485,7 +485,7 @@ Attended two concurrent workshops offered by Orbis Cascade Alliance and NNLM Reg
 * Convener (2024-Present)
 
 #### Mentor: [iSTAMP Program](https://ischool.uw.edu/alumni/get-involved/istamp), University of Washington Information School
-* 2022-Present
+* 2022-2025
 
 #### University of Washington Libraries Public Web Operations Group (PWOG)
 * 2025-Present
