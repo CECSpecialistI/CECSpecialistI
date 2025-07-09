@@ -185,6 +185,14 @@ Perform physical processing, inventory, arrangement, and description of archival
 ## Areas of Teaching Qualification
 Cataloging | Metadata | RDA | BIBFRAME | Linked Data | Ethics in Linked Data | Wikimedia | Rare Materials | Controlled Vocabularies | Ontologies | Data Modeling | Project Management | Entity/Identity Management | Special Collections | Archives | Archival Metadata
 ## Teaching Experience
+### Instructor (Guest Faculty): LIS 531: Catalogs, Cataloging, and Classification	
+* Spring 2026 (planned)
+* University of Washington Information School
+* Master of Library and Information Science Program
+* 4 credits
+* In-person
+* Course description: “Introduction to library cataloging and classification. Develops understanding of how cataloging ethics and systems inform information retrieval and affect diverse user experiences. Students learn to create effective user access and understand information discovery challenges. Includes practice in descriptive and subject cataloging and classification. Considers ethical issues in Machine Readable Cataloging (MARC) and in serving diverse groups.”
+
 ### Graduate Student Metadata Mentor: MARC21 Bibliographic to LRM/RDA/RDF Mapping and Transformation Project, University of Washington Libraries
 * 2021-Present
 * Students: Zhuo Pan, Melissa Morgan, Alice Chung, Cypress Payne, Pengyan Sun, Ying-Hsiang Huang, Doreen Chen, Sara Hruska, Tynan Challenor, Sarah Collins, Abhignya Rajapu
