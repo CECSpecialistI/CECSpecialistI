@@ -313,7 +313,8 @@ Cataloging | Metadata | RDA | BIBFRAME | Linked Data | Ethics in Linked Data | W
 
 ## Presentations and Publications
 ### National/International Presentations
-* MARC21 TO LRM/RDA/RDF mapping and conversion project: Crossing the first big river, with mountains ahead. Linked Data in the Real World, LD4 Conference on Linked Data, July 2025 (co-presenting with Laura Akerman)
+* WikiProject Personal Pronouns Implementation. LD4 (Linked Data for …) Wikidata Affinity Group Project Series. September-November 2025 (Series facilitator and coordinator. Co-facilitated with Arielle Rodriguez and Clair Kronk)
+* MARC21 TO LRM/RDA/RDF mapping and conversion project: Crossing the first big river, with mountains ahead. Linked Data in the Real World, LD4 Conference on Linked Data, July 2025 (co-presented with Laura Akerman)
 * Assessing Metadata for Diversity, Equity, Inclusion, and Accessibility in Cultural Heritage Institutions. ALA Annual Conference & Exhibition, Philadelphia, PA. June 26-30, 2025 (co-presented with Rachel Wittmann, Kaylee Alexander, and Anna Neatrour)
 * Homosaurus Unleashed: A Panel on Transforming LGBTQ+ Subject Access in Libraries. ALA Annual Conference & Exhibition, Philadelphia, PA. June 26-30, 2025 (co-presented with Sofia Slutskaya, Sal Hamerman, Dominique Dixon and Brinna Michael)
 * Conversion of MARC21 Bibliographic to LRM/RDA/RDF: Setting the Stage and Creating the Tools. Metadata Standards Matter: Building a Sustainable Future for Information, IFLA Symposium, Athens, Greece. March 2025 (co-presented with Sofia Zapounidou. co-authored with Ebe Kartus and Laura Akerman)
@@ -472,6 +473,10 @@ Attended two concurrent workshops offered by Orbis Cascade Alliance and NNLM Reg
 * PCC Cataloging in Sinopia Affinity Group (LD4P3-Present)
 * Rare Materials Affinity Group (LD4P2-Present)
 * Sinopia User Group (LD4P2-Present)
+
+#### Homosaurus Collective
+* 2025-Present
+* Implementation Board Member
 
 #### American Library Association (ALA) Member
 * ALA Core MARC Formats Transition Interest Group
