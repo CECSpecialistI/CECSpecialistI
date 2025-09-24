@@ -61,8 +61,15 @@
 * Open working group on Wikidata focused on addressing data modeling for personal pronoun data in Wikidata
 * Continuation of previous international collaborative work on gender representation & related ethical issues in Wikidata which began in 2021
 
+### Co-Coordinator: [Homosaurus Implementation Project (HIP)](https://www.orbiscascade.org/programs/scts/technical-services/csg/homosaurus-implementation-project/), Orbis Cascade Alliance
+2025-2026
+* Coordinate the HIP project alongside Co-Coordinator Lauren Rickel in its first year as a standalone Orbis Cascade Alliance Project, independent from the Cataloging Standing Group (CSG)
+* Consortium-wide project to retrospectively enhance bibliographic records in the shared catalog with Homosaurus terms. Batches of shared records systematically enhanced with Homosaurus terms by over fifty volunteers across the Alliance with varying experience levels
+* Serve as a liaison between the project and the Homosaurus Collective's Implementation Board
+* Facilitate coordination between project and SACO Gender and Sexuality Funnel Project
+
 ### Chair: [Homosaurus Implementation Project (HIP)](https://www.orbiscascade.org/programs/scts/technical-services/csg/homosaurus-implementation-project/), Orbis Cascade Alliance Cataloging Standing Group (CSG)
-* 2023-Present
+* 2023-2025
 * Plan and launch the project during term as Chair 
 * Consortium-wide project to retrospectively enhance bibliographic records in the shared catalog with Homosaurus terms. Batches of shared records systematically enhanced with Homosaurus terms by over fifty volunteers across the Alliance with varying experience levels
 * Facilitate coordination between project and SACO Gender and Sexuality Funnel Project
