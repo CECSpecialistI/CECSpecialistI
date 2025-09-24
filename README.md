@@ -202,6 +202,13 @@ Cataloging | Metadata | RDA | BIBFRAME | Linked Data | Ethics in Linked Data | W
 ### Supervisor: Student Directed Fieldwork, University of Washington Information School; University of Washington Libraries
 * 2019-Present
 
+#### MARC21 Bibliographic to LRM/RDA/RDF Mapping and Transformation Project: Phase II Mapping and Conversion
+* 2025
+* Supervise iSchool student Dee Dand
+* Teach MARC21 to LRM/RDA/RDF mapping for fields considered core in the CONSER Standard Record (CSR), facilitate XSLT learning with project co-supervisor Cypress Payne
+* Student learns to perform metadata crosswalking, MARC21 Bibliographic, the RDA/RDF Ontology, and XSLT for metadata transformation
+* Student plugs into international team of experts and learns about managing large, open, cooperative metadata projects
+
 #### Electronic Thesis and Dissertation Cataloging and Homosaurus Implementation
 * 2025
 * Supervise iSchool students Sarah Collins, Eulalie Mathieu, and Sinthuri Sentamilselvan
@@ -313,7 +320,7 @@ Cataloging | Metadata | RDA | BIBFRAME | Linked Data | Ethics in Linked Data | W
 
 ## Presentations and Publications
 ### National/International Presentations
-* WikiProject Personal Pronouns Implementation. LD4 (Linked Data for …) Wikidata Affinity Group Project Series. September-November 2025 (Series facilitator and coordinator. Co-facilitated with Arielle Rodriguez and Clair Kronk)
+* WikiProject Personal Pronouns Implementation. LD4 (Linked Data for …) Wikidata Affinity Group Project Series. September-November 2025 (Series facilitator and coordinator. Co-facilitated with Clair Kronk)
 * MARC21 TO LRM/RDA/RDF mapping and conversion project: Crossing the first big river, with mountains ahead. Linked Data in the Real World, LD4 Conference on Linked Data, July 2025 (co-presented with Laura Akerman)
 * Assessing Metadata for Diversity, Equity, Inclusion, and Accessibility in Cultural Heritage Institutions. ALA Annual Conference & Exhibition, Philadelphia, PA. June 26-30, 2025 (co-presented with Rachel Wittmann, Kaylee Alexander, and Anna Neatrour)
 * Homosaurus Unleashed: A Panel on Transforming LGBTQ+ Subject Access in Libraries. ALA Annual Conference & Exhibition, Philadelphia, PA. June 26-30, 2025 (co-presented with Sofia Slutskaya, Sal Hamerman, Dominique Dixon and Brinna Michael)
@@ -492,14 +499,14 @@ Attended two concurrent workshops offered by Orbis Cascade Alliance and NNLM Reg
 * 2019-Present
 
 #### University of Washington Libraries Linked Data Team
-* 2017-Present
+* 2017-2024
 
 #### University of Washington Libraries Metadata Implementation Group (2017-Present)
 * 2017-Present
-* Convener (2024-Present)
+* Convener (2024-2025)
 
 #### Mentor: [iSTAMP Program](https://ischool.uw.edu/alumni/get-involved/istamp), University of Washington Information School
-* 2022-2025
+* 2022-Present
 
 #### University of Washington Libraries Public Web Operations Group (PWOG)
 * 2025-Present
