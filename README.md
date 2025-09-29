@@ -14,7 +14,7 @@
 * Department of Comparative Literature & Cinema Studies, University of Washington, 2009
 ## Experience
 ### Science Cataloger, University of Washington Libraries
-* November 2017 - May 2024
+* November 2017 - May 2024; October 2025-Present
 * Participate in work, projects, and meetings in Collections & Content Portfolio, Cataloging and Metadata Services Department, Monographic Cataloging Unit, Metadata and Cataloging Initiatives Unit, and Special Collections
 * Recruit, interview, and train student employees in the Metadata and Cataloging Initiatives Unit. Supervise linked data work for student employees in the Metadata and Cataloging Initiatives Unit
 * Actively monitor and contribute to national developments concerning library metadata and the cataloging of special collections, archival, rare, cartographic, monographic, and electronic materials
