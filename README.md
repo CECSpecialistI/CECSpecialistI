@@ -13,13 +13,49 @@
 ### B.A.
 * Department of Comparative Literature & Cinema Studies, University of Washington, 2009
 ## Experience
+### Science Cataloger, University of Washington Libraries
+* November 2017 - May 2024
+* Participate in work, projects, and meetings in Collections & Content Portfolio, Cataloging and Metadata Services Department, Monographic Cataloging Unit, Metadata and Cataloging Initiatives Unit, and Special Collections
+* Recruit, interview, and train student employees in the Metadata and Cataloging Initiatives Unit. Supervise linked data work for student employees in the Metadata and Cataloging Initiatives Unit
+* Actively monitor and contribute to national developments concerning library metadata and the cataloging of special collections, archival, rare, cartographic, monographic, and electronic materials
+* Perform original and complex copy cataloging (bibliographic description, subject and genre/form analysis, classification, and authority control) of special collections monographs and cartographic materials, electronic theses and dissertations, atlases, maps, science materials, and other materials as assigned using MARC21 in the OCLC Connexion environment
+* Apply relevant rules, controlled vocabularies and thesauri
+* Contribute headings to the national authority file and Library of Congress Classification through NACO and SACO (independent on personal name headings)
+* Participate in BIBCO 
+* Participate in OCLC Member Merge program to merge duplicate records for print and electronic books and maps in the OCLC environment; train others at UW Libraries to do the same
+* In consultation with selectors, other catalogers, and stakeholders, establish cataloging procedures for materials as needed and coordinate record maintenance projects. Author and update cataloging and linked data procedures and documentation using Plone (Staffweb)
+* Act as a member of the UW Libraries Metadata Implementation Group
+* Manage and participate in international metadata and linked data projects as a member of the Linked Data Team. Participate in the writing of grant proposals and in grant-funded projects
+* Contribute to the UW Libraries and the profession through productive service in professional associations, consortial activities, and University Libraries committees and task forces
+
+### Project Supervisor: MARC21 to [LRM/RDA/RDF Mapping Project](https://github.com/uwlib-cams/MARC2RDA), University of Washington Libraries
+* 2021-Present
+* Coordinate international effort to create a robust mapping and corresponding conversion tool between the MARC21 Bibliographic standard and LRM/RDA/RDF
+* Facilitate weekly working meetings with catalogers and data scientists from across the United States, New Zealand, Greece, Scotland, and the Netherlands
+
+### Project Co-Chair: [PCC Program for Entity Management (EMCO)](https://wiki.lyrasis.org/display/PFCCP/EMCO), PCC Identity Management Advisory Committee (IMAC)
+* 2023-Present
+* A new, fifth PCC (Program for Cooperative Cataloging) program for entity management
+
+### [Wikidata WikiProject Personal Pronouns](https://www.wikidata.org/wiki/Wikidata:WikiProject_Personal_Pronouns)
+* 2023-Present
+* Open working group on Wikidata focused on addressing data modeling for personal pronoun data in Wikidata
+* Continuation of previous international collaborative work on gender representation & related ethical issues in Wikidata which began in 2021
+
+### Co-Coordinator: [Homosaurus Implementation Project (HIP)](https://www.orbiscascade.org/programs/scts/technical-services/csg/homosaurus-implementation-project/), Orbis Cascade Alliance
+2025-2026
+* Coordinate the HIP project alongside Co-Coordinator Lauren Rickel in its first year as a standalone Orbis Cascade Alliance Project, independent from the Cataloging Standing Group (CSG)
+* Consortium-wide project to retrospectively enhance bibliographic records in the shared catalog with Homosaurus terms. Batches of shared records systematically enhanced with Homosaurus terms by over fifty volunteers across the Alliance with varying experience levels
+* Serve as a liaison between the project and the Homosaurus Collective's Implementation Board
+* Facilitate coordination between project and SACO Gender and Sexuality Funnel Project
+
 ### Interim Co-Head, Metadata and Cataloging Initiatives Unit, University of Washington Libraries
-* May 2024 - Present
+* May 2024 - September 2025
 * Lead the Metadata and Cataloging Initiatives Unit alongside E-resources Metadata Librarian. Meet regularly with CAMS Department Head to discuss unit management
 * Supervise staff and student employees in the Metadata Management subunit of the Metadata and Cataloging Initiatives Unit. Take responsibility for all work in the subunit
 * Serve on the Cataloging and Metadata Services Department Management Team
-### Metadata Librarian, University of Washington Libraries
-* May 2024 - Present
+### Temporary Metadata Librarian, University of Washington Libraries
+* May 2024 - September 2025
 * Participate in work, projects, and meetings in Collections & Content Portfolio, Cataloging and Metadata Services Department, and the Metadata and Cataloging Initiatives Unit
 * Actively monitor and contribute to national developments concerning cataloging and metadata in libraries
 * Convene the University of Washington Libraries Metadata Implementation Group (MIG), which reviews and publishes metadata across the UW Libraries’ digital-collections platforms and institutional repositories, provides feedback on proposals for describing new collections, and articulates policies for non-MARC metadata practices
@@ -46,28 +82,7 @@
 * Participate in the PCC Monographic Bibliographic Record Cooperative Program (BIBCO) by authorizing, creating, and enhancing full-level BIBCO records in OCLC Connexion
 * Participate in OCLC Member Merge program to merge duplicate records for print and electronic books and maps in the OCLC Connexion environment; train others at UW Libraries to do the same
 * Contribute to the UW Libraries and the profession through productive service in professional associations, consortial activities, and University Libraries committees and task forces
-
-### Project Supervisor: MARC21 to [LRM/RDA/RDF Mapping Project](https://github.com/uwlib-cams/MARC2RDA), University of Washington Libraries
-* 2021-Present
-* Coordinate international effort to create a robust mapping and corresponding conversion tool between the MARC21 Bibliographic standard and LRM/RDA/RDF
-* Facilitate weekly working meetings with catalogers and data scientists from across the United States, New Zealand, Greece, Scotland, and the Netherlands
-
-### Project Co-Chair: [PCC Program for Entity Management (EMCO)](https://wiki.lyrasis.org/display/PFCCP/EMCO), PCC Identity Management Advisory Committee (IMAC)
-* 2023-Present
-* A new, fifth PCC (Program for Cooperative Cataloging) program for entity management
-
-### [Wikidata WikiProject Personal Pronouns](https://www.wikidata.org/wiki/Wikidata:WikiProject_Personal_Pronouns)
-* 2023-Present
-* Open working group on Wikidata focused on addressing data modeling for personal pronoun data in Wikidata
-* Continuation of previous international collaborative work on gender representation & related ethical issues in Wikidata which began in 2021
-
-### Co-Coordinator: [Homosaurus Implementation Project (HIP)](https://www.orbiscascade.org/programs/scts/technical-services/csg/homosaurus-implementation-project/), Orbis Cascade Alliance
-2025-2026
-* Coordinate the HIP project alongside Co-Coordinator Lauren Rickel in its first year as a standalone Orbis Cascade Alliance Project, independent from the Cataloging Standing Group (CSG)
-* Consortium-wide project to retrospectively enhance bibliographic records in the shared catalog with Homosaurus terms. Batches of shared records systematically enhanced with Homosaurus terms by over fifty volunteers across the Alliance with varying experience levels
-* Serve as a liaison between the project and the Homosaurus Collective's Implementation Board
-* Facilitate coordination between project and SACO Gender and Sexuality Funnel Project
-
+  
 ### Chair: [Homosaurus Implementation Project (HIP)](https://www.orbiscascade.org/programs/scts/technical-services/csg/homosaurus-implementation-project/), Orbis Cascade Alliance Cataloging Standing Group (CSG)
 * 2023-2025
 * Plan and launch the project during term as Chair 
@@ -86,21 +101,6 @@
 
 ### CC:DA Task Force to Prepare the ALA Response to RSC/ExtentWG/2024/1
 * 2024
-
-### Science Cataloger, University of Washington Libraries
-* November 2017 - May 2024
-* Participate in work, projects, and meetings in Collections & Content Portfolio, Cataloging and Metadata Services Department, Monographic Cataloging Unit, Metadata and Cataloging Initiatives Unit, and Special Collections
-* Recruit, interview, and train student employees in the Metadata and Cataloging Initiatives Unit. Supervise linked data work for student employees in the Metadata and Cataloging Initiatives Unit
-* Actively monitor and contribute to national developments concerning library metadata and the cataloging of special collections, archival, rare, cartographic, monographic, and electronic materials
-* Perform original and complex copy cataloging (bibliographic description, subject and genre/form analysis, classification, and authority control) of special collections monographs and cartographic materials, electronic theses and dissertations, atlases, maps, science materials, and other materials as assigned using MARC21 in the OCLC Connexion environment
-* Apply relevant rules, controlled vocabularies and thesauri
-* Contribute headings to the national authority file and Library of Congress Classification through NACO and SACO (independent on personal name headings)
-* Participate in BIBCO 
-* Participate in OCLC Member Merge program to merge duplicate records for print and electronic books and maps in the OCLC environment; train others at UW Libraries to do the same
-* In consultation with selectors, other catalogers, and stakeholders, establish cataloging procedures for materials as needed and coordinate record maintenance projects. Author and update cataloging and linked data procedures and documentation using Plone (Staffweb)
-* Act as a member of the UW Libraries Metadata Implementation Group
-* Manage and participate in international metadata and linked data projects as a member of the Linked Data Team. Participate in the writing of grant proposals and in grant-funded projects
-* Contribute to the UW Libraries and the profession through productive service in professional associations, consortial activities, and University Libraries committees and task forces
 
 ### [Metadata Remediation Project: Schitsu’umsh](https://sites.uw.edu/uwlcritcat/2024/02/27/harmful-language-remediation-project-schitsuumsh-native-northwest-online-project-blog-post/), University of Washington Libraries Critical Cataloging Group
 * 2023-2024
@@ -200,6 +200,16 @@ Cataloging | Metadata | RDA | BIBFRAME | Linked Data | Ethics in Linked Data | W
 * In-person
 * Course description: “Introduction to library cataloging and classification. Develops understanding of how cataloging ethics and systems inform information retrieval and affect diverse user experiences. Students learn to create effective user access and understand information discovery challenges. Includes practice in descriptive and subject cataloging and classification. Considers ethical issues in Machine Readable Cataloging (MARC) and in serving diverse groups.”
 
+### Guest Metadata Librarian: LIS 539: Metadata Design
+* Autumn 2025
+* University of Washington Information School
+* Master of Library and Information Science Program
+* 3 credits
+* Online, Asynchronous
+* Instructor: Joseph T. Tennis
+* Course description: "Covers application of and design principles around metadata schemas for collections of resources, incorporating issues of syntactic and semantic interoperability. Includes user needs assessment, selection and design workflows, and controlled vocabulary usage. Course framing includes coverage of ethical issues, project planning, decision-making, and future impact."
+* Role as guest metadata librarian: Provide students with asynchronous, interactive lesson on OpenRefine. Respond to student questions about OpenRefine and metadata librarianship throughout the quarter.
+
 ### Graduate Student Metadata Mentor: MARC21 Bibliographic to LRM/RDA/RDF Mapping and Transformation Project, University of Washington Libraries
 * 2021-Present
 * Students: Zhuo Pan, Melissa Morgan, Alice Chung, Cypress Payne, Pengyan Sun, Ying-Hsiang Huang, Doreen Chen, Sara Hruska, Tynan Challenor, Sarah Collins, Abhignya Rajapu
@@ -211,7 +221,7 @@ Cataloging | Metadata | RDA | BIBFRAME | Linked Data | Ethics in Linked Data | W
 
 #### MARC21 Bibliographic to LRM/RDA/RDF Mapping and Transformation Project: Phase II Mapping and Conversion
 * 2025
-* Supervise iSchool student Dee Dand
+* Supervise iSchool student []
 * Teach MARC21 to LRM/RDA/RDF mapping for fields considered core in the CONSER Standard Record (CSR), facilitate XSLT learning with project co-supervisor Cypress Payne
 * Student learns to perform metadata crosswalking, MARC21 Bibliographic, the RDA/RDF Ontology, and XSLT for metadata transformation
 * Student plugs into international team of experts and learns about managing large, open, cooperative metadata projects
