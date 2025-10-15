@@ -28,7 +28,7 @@
 * Manage and participate in international metadata and linked data projects as a member of the Linked Data Team. Participate in the writing of grant proposals and in grant-funded projects
 * Contribute to the UW Libraries and the profession through productive service in professional associations, consortial activities, and University Libraries committees and task forces
 
-### Project Supervisor: MARC21 to [LRM/RDA/RDF Mapping Project](https://github.com/uwlib-cams/MARC2RDA), University of Washington Libraries
+### Project Supervisor: [MARC21 to LRM/RDA/RDF Mapping Project](https://github.com/uwlib-cams/MARC2RDA), University of Washington Libraries
 * 2021-Present
 * Coordinate international effort to create a robust mapping and corresponding conversion tool between the MARC21 Bibliographic standard and LRM/RDA/RDF
 * Facilitate weekly working meetings with catalogers and data scientists from across the United States, New Zealand, Greece, Scotland, and the Netherlands
@@ -36,6 +36,7 @@
 ### Project Co-Chair: [PCC Program for Entity Management (EMCO)](https://wiki.lyrasis.org/display/PFCCP/EMCO), PCC Identity Management Advisory Committee (IMAC)
 * 2023-Present
 * A new, fifth PCC (Program for Cooperative Cataloging) program for entity management
+* Support Communities of Practice for Wikidata, ISNI, and OCLC Meridian/WorldCat Entities
 
 ### [Wikidata WikiProject Personal Pronouns](https://www.wikidata.org/wiki/Wikidata:WikiProject_Personal_Pronouns)
 * 2023-Present
@@ -54,6 +55,7 @@
 * Lead the Metadata and Cataloging Initiatives Unit alongside E-resources Metadata Librarian. Meet regularly with CAMS Department Head to discuss unit management
 * Supervise staff and student employees in the Metadata Management subunit of the Metadata and Cataloging Initiatives Unit. Take responsibility for all work in the subunit
 * Serve on the Cataloging and Metadata Services Department Management Team
+
 ### Temporary Metadata Librarian, University of Washington Libraries
 * May 2024 - September 2025
 * Participate in work, projects, and meetings in Collections & Content Portfolio, Cataloging and Metadata Services Department, and the Metadata and Cataloging Initiatives Unit
@@ -183,16 +185,19 @@ Work alongside Adam Schiff to develop application profiles, mint Wikidata items 
 * Perform physical processing, inventory, arrangement, and EAD finding aid creation and publishing for archival collections associated with UFCW Local 81:
     * [United Food and Commercial Workers International Union, Local 81 records](http://archiveswest.orbiscascade.org/ark:/80444/xv41351)
     * [United Food and Commercial Workers International Union, Local 81 photograph collection](http://archiveswest.orbiscascade.org/ark:/80444/xv03225)
+
 ### Volunteer, Labor Archives of Washington
 * February 2012 - October 2012
 * Duties:
 Perform physical processing, inventory, arrangement, and description of archival collections:
     * [United Workers Union-Independent records](http://archiveswest.orbiscascade.org/ark:/80444/xv85589)
     * [International Typographical Union Local 99 records](http://archiveswest.orbiscascade.org/ark:/80444/xv63897) 
+
 ## Areas of Teaching Qualification
 Cataloging | Metadata | RDA | BIBFRAME | Linked Data | Ethics in Linked Data | Wikimedia | Rare Materials | Controlled Vocabularies | Ontologies | Data Modeling | Project Management | Entity/Identity Management | Special Collections | Archives | Archival Metadata
+
 ## Teaching Experience
-### Instructor (Guest Faculty): LIS 531: Catalogs, Cataloging, and Classification	
+### Instructor: LIS 531: Catalogs, Cataloging, and Classification	
 * Spring 2026 (planned)
 * University of Washington Information School
 * Master of Library and Information Science Program
@@ -202,17 +207,17 @@ Cataloging | Metadata | RDA | BIBFRAME | Linked Data | Ethics in Linked Data | W
 
 ### Guest Metadata Librarian: LIS 539: Metadata Design
 * Autumn 2025
+* Instructor: Joseph T. Tennis
 * University of Washington Information School
 * Master of Library and Information Science Program
 * 3 credits
 * Online, Asynchronous
-* Instructor: Joseph T. Tennis
 * Course description: "Covers application of and design principles around metadata schemas for collections of resources, incorporating issues of syntactic and semantic interoperability. Includes user needs assessment, selection and design workflows, and controlled vocabulary usage. Course framing includes coverage of ethical issues, project planning, decision-making, and future impact."
 * Role as guest metadata librarian: Provide students with asynchronous, interactive lesson on OpenRefine. Respond to student questions about OpenRefine and metadata librarianship throughout the quarter.
 
 ### Graduate Student Metadata Mentor: MARC21 Bibliographic to LRM/RDA/RDF Mapping and Transformation Project, University of Washington Libraries
 * 2021-Present
-* Students: Zhuo Pan, Melissa Morgan, Alice Chung, Cypress Payne, Pengyan Sun, Ying-Hsiang Huang, Doreen Chen, Sara Hruska, Tynan Challenor, Sarah Collins, Abhignya Rajapu
+* Students: Zhuo Pan, Melissa Morgan, Alice Chung, Cypress Payne, Pengyan Sun, Ying-Hsiang Huang, Doreen Chen, Sara Hruska, Tynan Challenor, Sarah Collins, Abhignya Rajapu, []
 * Teach students the MARC21 Bibliographic standard, the RDA/RDF ontology, and mapping and transforming metadata between the two
 * Plug students into an international team of knowledge organization experts 
 
@@ -337,6 +342,8 @@ Cataloging | Metadata | RDA | BIBFRAME | Linked Data | Ethics in Linked Data | W
 
 ## Presentations and Publications
 ### National/International Presentations
+* WikiProject Personal Pronouns. Queering Wikipedia. October 25, 2025 (co-presented with Clair Kronk)
+* Supercharging Cultural Institution Collections with Wikidata. WikiEducation Speaker Series. October 23, 2025 (panelist)
 * WikiProject Personal Pronouns Implementation. LD4 (Linked Data for …) Wikidata Affinity Group Project Series. September-November 2025 (Series facilitator and coordinator. Co-facilitated with Clair Kronk)
 * MARC21 TO LRM/RDA/RDF mapping and conversion project: Crossing the first big river, with mountains ahead. Linked Data in the Real World, LD4 Conference on Linked Data, July 2025 (co-presented with Laura Akerman)
 * Assessing Metadata for Diversity, Equity, Inclusion, and Accessibility in Cultural Heritage Institutions. ALA Annual Conference & Exhibition, Philadelphia, PA. June 26-30, 2025 (co-presented with Rachel Wittmann, Kaylee Alexander, and Anna Neatrour)
@@ -394,6 +401,12 @@ Cataloging | Metadata | RDA | BIBFRAME | Linked Data | Ethics in Linked Data | W
 * Watson, B. Provo, A. Burlingame, K. (Eds.) Ethics in Linked Data, Library Juice Press. 2023.
 
 ## Training
+### XSLT Fundamentals
+* November 2025
+* Library Juice Academy
+* Instructor: Robert Chavez
+* Course Description: "This hands-on course will introduce students to the fundamentals of the XSL Transformation language (XSLT) for manipulating and transforming XML documents and data. At its core, a transformation expressed in XSLT describes rules for transforming input data into output data."
+
 ### Implementing Equitable Hiring Practices, University of Washington Professional & Organizational Development
 * 2025
 * Two-day course which equips participants to plan and carry out an effective and equitable hiring process, from posting to interviewing and candidate selection. Covers ways to make the process more inclusive and accessible, emphasizing equity-focused and bias-mitigating best practices
