@@ -342,7 +342,7 @@ Cataloging | Metadata | RDA | BIBFRAME | Linked Data | Ethics in Linked Data | W
 
 ## Presentations and Publications
 ### National/International Presentations
-* WikiProject Personal Pronouns. Queering Wikipedia. October 25, 2025 (co-presented with Clair Kronk)
+* Queering Policy and Practice in Wikidata: a Discussion on WikiProject Personal Pronouns. Queering Wikipedia. October 25, 2025 (co-presented with Clair Kronk)
 * Supercharging Cultural Institution Collections with Wikidata. WikiEducation Speaker Series. October 23, 2025 (panelist)
 * WikiProject Personal Pronouns Implementation. LD4 (Linked Data for …) Wikidata Affinity Group Project Series. September-November 2025 (Series facilitator and coordinator. Co-facilitated with Clair Kronk)
 * MARC21 TO LRM/RDA/RDF mapping and conversion project: Crossing the first big river, with mountains ahead. Linked Data in the Real World, LD4 Conference on Linked Data, July 2025 (co-presented with Laura Akerman)
