@@ -224,9 +224,15 @@ Cataloging | Metadata | RDA | BIBFRAME | Linked Data | Ethics in Linked Data | W
 ### Supervisor: Student Directed Fieldwork, University of Washington Information School; University of Washington Libraries
 * 2019-Present
 
+#### Science Cataloging
+* 2025
+* Co-supervise iSchool student James O'Brien with Cate Gerhart
+* Teach copy cataloging, original cataloging, Ex Libris Alma, OCLC Connexion, subject analysis, cartographic bibliographic description, NACO and SACO contribution, and Wikidata identity management for science monographs
+* Student learns to catalog using Program for Cooperative Cataloging (PCC) BIBCO, Resource Description and Access (RDA), and PCC Provider-neutral standards as appropriate, in-person at the University of Washington Libraries
+
 #### MARC21 Bibliographic to LRM/RDA/RDF Mapping and Transformation Project: Phase II Mapping and Conversion
 * 2025
-* Supervise iSchool student []
+* Supervise iSchool student Dana Anderson
 * Teach MARC21 to LRM/RDA/RDF mapping for fields considered core in the CONSER Standard Record (CSR), facilitate XSLT learning with project co-supervisor Cypress Payne
 * Student learns to perform metadata crosswalking, MARC21 Bibliographic, the RDA/RDF Ontology, and XSLT for metadata transformation
 * Student plugs into international team of experts and learns about managing large, open, cooperative metadata projects
@@ -514,8 +520,11 @@ Attended two concurrent workshops offered by Orbis Cascade Alliance and NNLM Reg
 #### Homosaurus Collective
 * 2025-Present
 * Implementation Board Member
+* ALA Core Subject Analysis Committee (SAC) Liaison
 
 #### American Library Association (ALA) Member
+* Subject Analysis Committee (SAC)
+    * Homosaurus Collective Liaison, 2025-
 * ALA Core MARC Formats Transition Interest Group
     * Co-Chair, 2024-2025
 
