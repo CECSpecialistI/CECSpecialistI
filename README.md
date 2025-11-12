@@ -28,7 +28,7 @@
 * Manage and participate in international metadata and linked data projects as a member of the Linked Data Team. Participate in the writing of grant proposals and in grant-funded projects
 * Contribute to the UW Libraries and the profession through productive service in professional associations, consortial activities, and University Libraries committees and task forces
 
-### Project Supervisor: [MARC21 to LRM/RDA/RDF Mapping Project](https://github.com/uwlib-cams/MARC2RDA), University of Washington Libraries
+### Project Supervisor: [MARC21 to LRM/RDA/RDF Mapping Project](https://github.com/crystalyragui/MARC2RDA)
 * 2021-Present
 * Coordinate international effort to create a robust mapping and corresponding conversion tool between the MARC21 Bibliographic standard and LRM/RDA/RDF
 * Facilitate weekly working meetings with catalogers and data scientists from across the United States, New Zealand, Greece, Scotland, and the Netherlands
@@ -37,6 +37,7 @@
 * 2023-Present
 * A new, fifth PCC (Program for Cooperative Cataloging) program for entity management
 * Support Communities of Practice for Wikidata, ISNI, and OCLC Meridian/WorldCat Entities
+* Convene the EMCO Coordination Committee with IMAC Co-chair
 
 ### [Wikidata WikiProject Personal Pronouns](https://www.wikidata.org/wiki/Wikidata:WikiProject_Personal_Pronouns)
 * 2023-Present
@@ -217,7 +218,7 @@ Cataloging | Metadata | RDA | BIBFRAME | Linked Data | Ethics in Linked Data | W
 
 ### Graduate Student Metadata Mentor: MARC21 Bibliographic to LRM/RDA/RDF Mapping and Transformation Project, University of Washington Libraries
 * 2021-Present
-* Students: Zhuo Pan, Melissa Morgan, Alice Chung, Cypress Payne, Pengyan Sun, Ying-Hsiang Huang, Doreen Chen, Sara Hruska, Tynan Challenor, Sarah Collins, Abhignya Rajapu, []
+* Students: Zhuo Pan, Melissa Morgan, Alice Chung, Cypress Payne, Pengyan Sun, Ying-Hsiang Huang, Doreen Chen, Sara Hruska, Tynan Challenor, Sarah Collins, Abhignya Rajapu, Dana Anderson
 * Teach students the MARC21 Bibliographic standard, the RDA/RDF ontology, and mapping and transforming metadata between the two
 * Plug students into an international team of knowledge organization experts 
 
@@ -348,6 +349,9 @@ Cataloging | Metadata | RDA | BIBFRAME | Linked Data | Ethics in Linked Data | W
 
 ## Presentations and Publications
 ### National/International Presentations
+* [EMCO]. CEAL Pre-conference Workshop. March 5, 2026 (co-presented with Mary Campany, Minyoung Chung, Anne Washington, and Eric Willey)
+* IMAC/EMCO Update. PoCo November Meeting. November 6-7, 2025 (co-presented with Jennifer Liss)
+* Entity Management Cooperative (EMCO) and PCC Membership. PoCo November Meeting. November 6-7, 2025 (co-presented with Jennifer Liss)
 * Queering Policy and Practice in Wikidata: a Discussion on WikiProject Personal Pronouns. Queering Wikipedia. October 25, 2025 (co-presented with Clair Kronk)
 * Supercharging Cultural Institution Collections with Wikidata. WikiEducation Speaker Series. October 23, 2025 (panelist)
 * WikiProject Personal Pronouns Implementation. LD4 (Linked Data for …) Wikidata Affinity Group Project Series. September-November 2025 (Series facilitator and coordinator. Co-facilitated with Clair Kronk)
