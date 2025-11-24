@@ -412,10 +412,15 @@ Cataloging | Metadata | RDA | BIBFRAME | Linked Data | Ethics in Linked Data | W
 
 ## Training
 ### XSLT Fundamentals
-* November 2025
+* May 2026
 * Library Juice Academy
 * Instructor: Robert Chavez
 * Course Description: "This hands-on course will introduce students to the fundamentals of the XSL Transformation language (XSLT) for manipulating and transforming XML documents and data. At its core, a transformation expressed in XSLT describes rules for transforming input data into output data."
+
+### Emotional Intelligence for Culture Change
+* November 2025
+* Right to Be
+* Elective online training on awareness, accountability, and impact through Orbis Cascade Alliance
 
 ### Implementing Equitable Hiring Practices, University of Washington Professional & Organizational Development
 * 2025
