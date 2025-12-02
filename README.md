@@ -398,7 +398,6 @@ Cataloging | Metadata | RDA | BIBFRAME | Linked Data | Ethics in Linked Data | W
 
 ### Publications: Author
 * MARC Discussion Paper No. 2025-DP04. (December 18, 2024). MARC Development. [read](https://www.loc.gov/marc/mac/2025/2025-dp04.html) 
-* [Upcoming] BIBFRAME Implementation in Library Systems. Technical Services Quarterly Report, 2025 (co-authored with Sai Deng)
 * The Queer Metadata Collective, Adolpho, K., Bailund, A., Beck, E., Bradshaw, J., Butler, E., Bárcenas, B., Caelin, M., Carpenter, R., Day, A., Day, T., Dixon, D., Dover, A., Frizzell, S., Goodrich, G., Hendrickson, B. L., Keller, T., Misorski, C., Murphy, D., … Yragui, C. (2024). Best Practices for Queer Metadata (1.0). Zenodo. [https://doi.org/10.5281/zenodo.12580531](https://doi.org/10.5281/zenodo.12580531) 
 * The Secret Life of UW Libraries Catalogers and Metadata Specialists: Student Spotlight: María Fernanda (Fer) Palomares Carranco, UW Libraries Blog. August 18, 2025. [read](https://sites.uw.edu/libstrat/?p=5272&preview=1&_ppp=d8ee4dd8c1)
 * The Secret Life of UW Libraries Catalogers and Metadata Specialists: Student Spotlight: Ally Okun, UW Libraries Blog. October 1, 2024. [read](https://sites.uw.edu/libstrat/2024/10/01/the-secret-life-of-uw-libraries-catalogers-and-metadata-specialists-3/)
@@ -536,6 +535,12 @@ Attended two concurrent workshops offered by Orbis Cascade Alliance and NNLM Reg
     * Homosaurus Collective Liaison, 2025-
 * ALA Core MARC Formats Transition Interest Group
     * Co-Chair, 2024-2025
+ 
+#### International Federation of Library Associations and Institutions (IFLA)
+* 2025-Present
+* Affiliate
+* Bibliographic Conceptual Models (BCM) Review Group
+    * Member, 2025-Present
 
 ### Local Professional Memberships and Service
 
