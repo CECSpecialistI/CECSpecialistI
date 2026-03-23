@@ -350,7 +350,8 @@ Cataloging | Metadata | RDA | BIBFRAME | Linked Data | Ethics in Linked Data | W
 ## Presentations and Publications
 ### National/International Presentations
 * Homosaurus Panel. ALA Rainbow Roundtable Paper Bag Lunch Session. March 5, 2026 (co-panelist with Bri Watson, Gabrielle Garcia, and Keahi Adolpho)
-* [EMCO]. CEAL Pre-conference Workshop. March 5, 2026 (co-presented with Mary Campany, Minyoung Chung, Anne Washington, and Eric Willey)
+* Introduction to EMCO. CEAL Pre-conference Workshop. March 5, 2026 (co-presented with Mary Campany, Minyoung Chung, and Eric Willey)
+* Introduction to EMCO. PCC SCMP & PCC IMAC Co-sponsored Event. January 29, 2026 (co-presented with Emma Rogoz) 
 * IMAC/EMCO Update. PoCo November Meeting. November 6-7, 2025 (co-presented with Jennifer Liss)
 * Entity Management Cooperative (EMCO) and PCC Membership. PoCo November Meeting. November 6-7, 2025 (co-presented with Jennifer Liss)
 * Queering Policy and Practice in Wikidata: a Discussion on WikiProject Personal Pronouns. Queering Wikipedia. October 25, 2025 (co-presented with Clair Kronk)
