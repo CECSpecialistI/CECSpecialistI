@@ -349,6 +349,7 @@ Cataloging | Metadata | RDA | BIBFRAME | Linked Data | Ethics in Linked Data | W
 
 ## Presentations and Publications
 ### National/International Presentations
+* Homosaurus Panel. ALA Rainbow Roundtable Paper Bag Lunch Session. March 5, 2026 (co-panelist with Bri Watson, Gabrielle Garcia, and Keahi Adolpho)
 * [EMCO]. CEAL Pre-conference Workshop. March 5, 2026 (co-presented with Mary Campany, Minyoung Chung, Anne Washington, and Eric Willey)
 * IMAC/EMCO Update. PoCo November Meeting. November 6-7, 2025 (co-presented with Jennifer Liss)
 * Entity Management Cooperative (EMCO) and PCC Membership. PoCo November Meeting. November 6-7, 2025 (co-presented with Jennifer Liss)
@@ -397,15 +398,20 @@ Cataloging | Metadata | RDA | BIBFRAME | Linked Data | Ethics in Linked Data | W
 * Linked Data at the University of Washington Libraries. March 2019 (co-presented with Benjamin Riesenberg and Theo Gerontakos)
 
 ### Publications: Author
+* St-Amour, D, Adolpho, K., Cifor, M., Radmacher, M., Watson, B.M., Yragui, C., and Wagner, T. Building and sustaining the Homosaurus, an inclusive LGBTQ+ linked data vocabulary. (March 23, 2026). Catalogue & Index, Issue 214. [read](https://journals.cilip.org.uk/catalogue-and-index/article/view/879/741)
+* Yragui, C. UW Libraries Principal Cataloger Adam Schiff Awarded Prestigious Margaret Mann Citation, The Order of Things (UW Libraries CAMS Blog). March 23, 2026. [read](https://sites.uw.edu/camsblog/2026/03/23/uw-libraries-principal-cataloger-adam-schiff-awarded-prestigious-margaret-mann-citation/)
+* Yragui, C. CAMS Student Tynan Challenor Wins UW Libraries Student Employee Scholarship, The Order of Things (UW Libraries CAMS Blog). March 23, 2026. [read](https://sites.uw.edu/camsblog/2026/03/23/cams-student-tynan-challenor-wins-uw-libraries-student-employee-scholarship/)
+* Yragui, C. CAMS Student Mithun Manjunath Wins UW Libraries Student Employee Scholarship, The Order of Things (UW Libraries CAMS Blog). March 23, 2026. [read](https://sites.uw.edu/camsblog/2026/03/23/cams-student-mithun-manjunath-wins-uw-libraries-student-employee-scholarship/)
 * Deng, S., & Yragui, C. (2025). BIBFRAME implementation in library systems: ALA core MARC formats transition interest group community meeting. Technical Services Quarterly, 42(2), 233–238. [read](https://doi.org/10.1080/07317131.2025.2467578)
-* MARC Discussion Paper No. 2025-DP04. (December 18, 2024). MARC Development. [read](https://www.loc.gov/marc/mac/2025/2025-dp04.html) 
+* Yragui, C. The Lives of UW Libraries Catalogers and Metadata Specialists: Student Spotlight Series: Student Spotlight #6: Cypress Payne, The Order of Things (UW Libraries CAMS Blog). November 17, 2025. [read](https://sites.uw.edu/camsblog/2025/11/18/student-spotlight-6-cypress-payne/)
+* Yragui, C. MARC Discussion Paper No. 2025-DP04. (December 18, 2024). MARC Development. [read](https://www.loc.gov/marc/mac/2025/2025-dp04.html) 
 * The Queer Metadata Collective, Adolpho, K., Bailund, A., Beck, E., Bradshaw, J., Butler, E., Bárcenas, B., Caelin, M., Carpenter, R., Day, A., Day, T., Dixon, D., Dover, A., Frizzell, S., Goodrich, G., Hendrickson, B. L., Keller, T., Misorski, C., Murphy, D., … Yragui, C. (2024). Best Practices for Queer Metadata (1.0). Zenodo. [https://doi.org/10.5281/zenodo.12580531](https://doi.org/10.5281/zenodo.12580531) 
-* The Secret Life of UW Libraries Catalogers and Metadata Specialists: Student Spotlight: María Fernanda (Fer) Palomares Carranco, UW Libraries Blog. August 18, 2025. [read](https://sites.uw.edu/libstrat/?p=5272&preview=1&_ppp=d8ee4dd8c1)
-* The Secret Life of UW Libraries Catalogers and Metadata Specialists: Student Spotlight: Ally Okun, UW Libraries Blog. October 1, 2024. [read](https://sites.uw.edu/libstrat/2024/10/01/the-secret-life-of-uw-libraries-catalogers-and-metadata-specialists-3/)
-* The Secret Life of UW Libraries Catalogers and Metadata Specialists: Student Spotlight: Valerie Rollins, UW Libraries Blog. March 12, 2024. [read](https://sites.uw.edu/libstrat/2024/03/12/the-secret-life-of-uw-libraries-catalogers-and-metadata-specialists-spotlight/)
-* The Secret Life of UW Libraries Catalogers and Metadata Specialists: Student Spotlight: Zhuo Pan, UW Libraries Blog. January 22, 2024. [read](https://sites.uw.edu/libstrat/2024/01/22/the-secret-life-of-uw-libraries-catalogers-and-metadata-specialists-2/)
-* The Secret Life of UW Libraries Catalogers and Metadata Specialists: Student Spotlight: Melissa Morgan, UW Libraries Blog. October 11, 2023. [read](https://sites.uw.edu/libstrat/2023/10/11/the-secret-life-of-uw-libraries-catalogers-and-metadata-specialists/)
-* LRM/RDA/RDF at the University of Washington Libraries: A Timeline, UW Libraries Semantic Web Blog. April 5, 2022. [read](https://sites.uw.edu/uwlsemanticweb/2022/04/05/lrm-rda-rdf-at-the-university-of-washington-libraries-a-timeline/)
+* Yragui, C. The Secret Life of UW Libraries Catalogers and Metadata Specialists: Student Spotlight: María Fernanda (Fer) Palomares Carranco, UW Libraries Blog. August 18, 2025. [read](https://sites.uw.edu/libstrat/?p=5272&preview=1&_ppp=d8ee4dd8c1)
+* Yragui, C. The Secret Life of UW Libraries Catalogers and Metadata Specialists: Student Spotlight: Ally Okun, UW Libraries Blog. October 1, 2024. [read](https://sites.uw.edu/libstrat/2024/10/01/the-secret-life-of-uw-libraries-catalogers-and-metadata-specialists-3/)
+* Yragui, C. The Secret Life of UW Libraries Catalogers and Metadata Specialists: Student Spotlight: Valerie Rollins, UW Libraries Blog. March 12, 2024. [read](https://sites.uw.edu/libstrat/2024/03/12/the-secret-life-of-uw-libraries-catalogers-and-metadata-specialists-spotlight/)
+* Yragui, C. The Secret Life of UW Libraries Catalogers and Metadata Specialists: Student Spotlight: Zhuo Pan, UW Libraries Blog. January 22, 2024. [read](https://sites.uw.edu/libstrat/2024/01/22/the-secret-life-of-uw-libraries-catalogers-and-metadata-specialists-2/)
+* Yragui, C. The Secret Life of UW Libraries Catalogers and Metadata Specialists: Student Spotlight: Melissa Morgan, UW Libraries Blog. October 11, 2023. [read](https://sites.uw.edu/libstrat/2023/10/11/the-secret-life-of-uw-libraries-catalogers-and-metadata-specialists/)
+* Yragui, C. LRM/RDA/RDF at the University of Washington Libraries: A Timeline, UW Libraries Semantic Web Blog. April 5, 2022. [read](https://sites.uw.edu/uwlsemanticweb/2022/04/05/lrm-rda-rdf-at-the-university-of-washington-libraries-a-timeline/)
 
 ### Publications: Peer Reviewer
 * Watson, B. Provo, A. Burlingame, K. (Eds.) Ethics in Linked Data, Library Juice Press. 2023.
