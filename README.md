@@ -29,9 +29,9 @@
 * Contribute to the UW Libraries and the profession through productive service in professional associations, consortial activities, and University Libraries committees and task forces
 
 ### Project Supervisor: [MARC21 to LRM/RDA/RDF Mapping Project](https://github.com/crystalyragui/MARC2RDA)
-* 2021-Present
+* 2021-Present (co-supervisor with Cypress Payne 2024-Present)
 * Coordinate international effort to create a robust mapping and corresponding conversion tool between the MARC21 Bibliographic standard and LRM/RDA/RDF
-* Facilitate weekly working meetings with catalogers and data scientists from across the United States, New Zealand, Greece, Scotland, and the Netherlands
+* Facilitate weekly working meetings with catalogers and data scientists from across the United States, New Zealand, Australia, Greece, Scotland, Mexico, Canada, and the Netherlands
 
 ### Project Co-Chair: [PCC Program for Entity Management (EMCO)](https://wiki.lyrasis.org/display/PFCCP/EMCO), PCC Identity Management Advisory Committee (IMAC)
 * 2023-Present
@@ -94,7 +94,7 @@
 * As a CSG member, continue to support the project and ensure its successful completion
 
 ### [UW Libraries Semantic Web Metadata](https://www.lib.washington.edu/cams/swr), University of Washington Libraries
-* 2017-Present
+* 2017-2026
 * MARC21 Bibliographic to LRM/RDA/RDF Mapping and Transformation Project
 * RDA/RDF Application Profiles
 * RDA/RDF to BIBFRAME Conversion using RDF Mapping Language (RML)
@@ -195,14 +195,29 @@ Perform physical processing, inventory, arrangement, and description of archival
     * [International Typographical Union Local 99 records](http://archiveswest.orbiscascade.org/ark:/80444/xv63897) 
 
 ## Areas of Teaching Qualification
-Cataloging | Metadata | RDA | BIBFRAME | Linked Data | Ethics in Linked Data | Wikimedia | Rare Materials | Controlled Vocabularies | Ontologies | Data Modeling | Project Management | Entity/Identity Management | Special Collections | Archives | Archival Metadata
+Cataloging | Metadata | RDA | BIBFRAME | Linked Data | Ethics in Linked Data | Wikimedia | Rare Materials | Controlled Vocabularies | Ontologies | Data Modeling | Project Management | Entity/Identity Management | Special Collections | Archives | Archival Metadata | Indexing | Academic Libraries
 
 ## Teaching Experience
-### Instructor: LIS 531: Catalogs, Cataloging, and Classification	
-* Spring 2026 (planned)
+### Instructor: LIS 531: Catalogs, Cataloging, and Classification
+* Autumn 2026 (planned)
 * University of Washington Information School
 * Master of Library and Information Science Program
 * 4 credits
+* Online asynchronous
+
+### Instructor: LIS 589: Academic Librarianship
+* Autumn 2026 (planned)
+* University of Washington Information School
+* Master of Library and Information Science Program
+* 3 credits
+* In-person
+* Course description: "Explores the complexities of tradition and innovation as academic libraries redefine themselves, including changes in physical space, job titles, and the format of collections. Examines the multiple forces at work in academic libraries, from politics to technology, using the lens of social justice and equity."
+
+### Instructor: LIS 531: Catalogs, Cataloging, and Classification	
+* Spring 2026
+* University of Washington Information School
+* Master of Library and Information Science Program
+* 4 credits - 27 students
 * In-person
 * Course description: “Introduction to library cataloging and classification. Develops understanding of how cataloging ethics and systems inform information retrieval and affect diverse user experiences. Students learn to create effective user access and understand information discovery challenges. Includes practice in descriptive and subject cataloging and classification. Considers ethical issues in Machine Readable Cataloging (MARC) and in serving diverse groups.”
 
@@ -218,7 +233,7 @@ Cataloging | Metadata | RDA | BIBFRAME | Linked Data | Ethics in Linked Data | W
 
 ### Graduate Student Metadata Mentor: MARC21 Bibliographic to LRM/RDA/RDF Mapping and Transformation Project, University of Washington Libraries
 * 2021-Present
-* Students: Zhuo Pan, Melissa Morgan, Alice Chung, Cypress Payne, Pengyan Sun, Ying-Hsiang Huang, Doreen Chen, Sara Hruska, Tynan Challenor, Sarah Collins, Abhignya Rajapu, Dana Anderson
+* Students: Zhuo Pan, Melissa Morgan, Alice Chung, Cypress Payne, Pengyan Sun, Ying-Hsiang Huang, Doreen Chen, Sara Hruska, Tynan Challenor, Sarah Collins, Abhignya Rajapu, Dana Anderson, Emily Backstrom
 * Teach students the MARC21 Bibliographic standard, the RDA/RDF ontology, and mapping and transforming metadata between the two
 * Plug students into an international team of knowledge organization experts 
 
@@ -227,7 +242,7 @@ Cataloging | Metadata | RDA | BIBFRAME | Linked Data | Ethics in Linked Data | W
 
 #### Science Cataloging
 * 2025
-* Co-supervise iSchool student James O'Brien with Cate Gerhart
+* Co-supervise iSchool student James O'Brien alongside Cate Gerhart
 * Teach copy cataloging, original cataloging, Ex Libris Alma, OCLC Connexion, subject analysis, cartographic bibliographic description, NACO and SACO contribution, and Wikidata identity management for science monographs
 * Student learns to catalog using Program for Cooperative Cataloging (PCC) BIBCO, Resource Description and Access (RDA), and PCC Provider-neutral standards as appropriate, in-person at the University of Washington Libraries
 
@@ -349,6 +364,9 @@ Cataloging | Metadata | RDA | BIBFRAME | Linked Data | Ethics in Linked Data | W
 
 ## Presentations and Publications
 ### National/International Presentations
+* Artificial Intelligence and Machine Learning in Metadata. CALMA Round Table. May 22, 2026. (organizer and moderator for co-panelists Morag Boyd, Charlene Chou, Jeremy Nelson, Philippe Saadé, Osma Suominen, and Denny Vrandečić) [recording](https://calma.ischool.uw.edu/uw-event/artificial-intelligence-and-machine-learning-in-metadata-possibilities-limitations-and-ethical-implications/)
+* Homosaurus Implementation Board. Homosaurus Collective Summit. April 22, 2026. 
+* EMCO Early Adopter Phase Second Cohort Orientation. April 13 & 15, 2026 (co-led with Jennifer Liss)
 * Homosaurus Panel. ALA Rainbow Roundtable Paper Bag Lunch Session. March 5, 2026 (co-panelist with Bri Watson, Gabrielle Garcia, and Keahi Adolpho)
 * Introduction to EMCO. CEAL Pre-conference Workshop. March 5, 2026 (co-presented with Mary Campany, Minyoung Chung, and Eric Willey)
 * Introduction to EMCO. PCC SCMP & PCC IMAC Co-sponsored Event. January 29, 2026 (co-presented with Emma Rogoz) 
@@ -388,6 +406,7 @@ Cataloging | Metadata | RDA | BIBFRAME | Linked Data | Ethics in Linked Data | W
 * Linked Open Data Production and Publishing Workflow at the University of Washington Libraries. TSWE-IG Meeting, ALA Midwinter Conference, January 2019 (co-presented with Benjamin Riesenberg and Theo Gerontakos)
 
 ### Local Presentations
+* Practical Perspectives on the Impact of Artificial Intelligence on Library, Archives, and Museum Careers. CALMA Round Table. April 22, 2026. (co-panelist with Drs. Ben Lee and Richard Lewis. Moderated by Dr. Lane Eagles)[recording](https://calma.ischool.uw.edu/uw-event/practical-perspectives-on-the-impact-of-artificial-intelligence-on-library-archives-and-museum-careers/)
 * Harmful Language Metadata Remediation at the University of Washington Libraries. Live with C&C Session, February 2025 (co-presented with Erin Grant, Martha McTear, Junghae Lee, and Amy Entze)
 * Homosaurus Implementation Project (HIP): Community-Driven Linked Data Work at the Orbis Cascade Alliance. ALUW Fall Member Meeting, November 13, 2024
 * Homosaurus Rex: Unleashing the Power of Community-Driven Alternative Controlled Vocabulary Implementation. Orbis Cascade Alliance SCTS Days conference, October 2024 (co-presented with Holly Wheeler)
