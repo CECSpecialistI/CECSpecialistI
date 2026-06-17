@@ -364,7 +364,11 @@ Cataloging | Metadata | RDA | BIBFRAME | Linked Data | Ethics in Linked Data | W
 
 ## Presentations and Publications
 ### National/International Presentations
+* Legacy MARC21 Data as RDA/RDF: Conversion Tools, Workflows, and Results. ACRL Technical Services Interest Group ALA Annual Pre-Conference. June 23, 2026.
+* Navigating Authorities Work In These Times. Gender and Sexuality in Information Studies Colloquium. June 17-18, 2026. (co-presented with Puck Malamud, Chloe Misorski, Mary Cornell, and Lia Ryland)
+* The Homosaurus: From Board to Collective. Gender and Sexuality in Information Studies Colloquium. June 17-18, 2026. (co-presented with B. M. Watson, Keahi Adolpho, Chloe Noland, Irina Rogova, Lia Ryland, Julia Bullard, Rachel Newlin, and D. St. Amour)
 * Artificial Intelligence and Machine Learning in Metadata. CALMA Round Table. May 22, 2026. (organizer and moderator for co-panelists Morag Boyd, Charlene Chou, Jeremy Nelson, Philippe Saadé, Osma Suominen, and Denny Vrandečić) [recording](https://calma.ischool.uw.edu/uw-event/artificial-intelligence-and-machine-learning-in-metadata-possibilities-limitations-and-ethical-implications/)
+* Practical Perspectives on the Impact of Artificial Intelligence on Library, Archives, and Museum Careers. CALMA Round Table. April 22, 2026. (co-panelist with Drs. Ben Lee and Richard Lewis. facilitated by Dr. Lane Eagles)
 * Homosaurus Implementation Board. Homosaurus Collective Summit. April 22, 2026. 
 * EMCO Early Adopter Phase Second Cohort Orientation. April 13 & 15, 2026 (co-led with Jennifer Liss)
 * Homosaurus Panel. ALA Rainbow Roundtable Paper Bag Lunch Session. March 5, 2026 (co-panelist with Bri Watson, Gabrielle Garcia, and Keahi Adolpho)
@@ -544,10 +548,10 @@ Attended two concurrent workshops offered by Orbis Cascade Alliance and NNLM Reg
 #### LD4 Community 
 * 2018-Present
 * Profiles Working Group (LD4P2)
-* Non-Latin Script Affinity Group (LD4P2-Present)
+* Non-Latin Script Affinity Group (LD4P2-2025)
 * Wikidata Affinity Group (LD4P2-Present)
     * Wikidata Affinity Group Coordination Committee (2024-Present)
-* Ethics in Linked Data Affinity Group (LD4P2-Present)
+* Ethics in Linked Data Affinity Group (LD4P2-2025)
 * PCC Cataloging in Sinopia Affinity Group (LD4P3-Present)
 * Rare Materials Affinity Group (LD4P2-Present)
 * Sinopia User Group (LD4P2-Present)
@@ -560,6 +564,7 @@ Attended two concurrent workshops offered by Orbis Cascade Alliance and NNLM Reg
 #### American Library Association (ALA) Member
 * Subject Analysis Committee (SAC)
     * Homosaurus Collective Liaison, 2025-
+    * Subdivision Continuity Working Group, 2026-
 * ALA Core MARC Formats Transition Interest Group
     * Co-Chair, 2024-2025
  
