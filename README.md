@@ -13,8 +13,10 @@
 ### B.A.
 * Department of Comparative Literature & Cinema Studies, University of Washington, 2009
 ## Experience
+### Assistant Teaching Professor, University of Washington Information School
+* August 2026-Present
 ### Science Cataloger, University of Washington Libraries
-* November 2017 - May 2024; October 2025-Present
+* November 2017-May 2024; October 2025-July 2026
 * Participate in work, projects, and meetings in Collections & Content Portfolio, Cataloging and Metadata Services Department, Monographic Cataloging Unit, Metadata and Cataloging Initiatives Unit, and Special Collections
 * Recruit, interview, and train student employees in the Metadata and Cataloging Initiatives Unit. Supervise linked data work for student employees in the Metadata and Cataloging Initiatives Unit
 * Actively monitor and contribute to national developments concerning library metadata and the cataloging of special collections, archival, rare, cartographic, monographic, and electronic materials
@@ -364,7 +366,7 @@ Cataloging | Metadata | RDA | BIBFRAME | Linked Data | Ethics in Linked Data | W
 
 ## Presentations and Publications
 ### National/International Presentations
-* Legacy MARC21 Data as RDA/RDF: Conversion Tools, Workflows, and Results. ACRL Technical Services Interest Group ALA Annual Pre-Conference. June 23, 2026.
+* Legacy MARC21 Data as RDA/RDF: Conversion Tools, Workflows, and Results. ACRL Technical Services Interest Group ALA Annual Pre-Conference. June 23, 2026. [recording](https://www.youtube.com/watch?v=oXB1tz18FPE)
 * Navigating Authorities Work In These Times. Gender and Sexuality in Information Studies Colloquium. June 17-18, 2026. (co-presented with Puck Malamud, Chloe Misorski, Mary Cornell, and Lia Ryland)
 * The Homosaurus: From Board to Collective. Gender and Sexuality in Information Studies Colloquium. June 17-18, 2026. (co-presented with B. M. Watson, Keahi Adolpho, Chloe Noland, Irina Rogova, Lia Ryland, Julia Bullard, Rachel Newlin, and D. St. Amour)
 * Artificial Intelligence and Machine Learning in Metadata. CALMA Round Table. May 22, 2026. (organizer and moderator for co-panelists Morag Boyd, Charlene Chou, Jeremy Nelson, Philippe Saadé, Osma Suominen, and Denny Vrandečić) [recording](https://calma.ischool.uw.edu/uw-event/artificial-intelligence-and-machine-learning-in-metadata-possibilities-limitations-and-ethical-implications/)
