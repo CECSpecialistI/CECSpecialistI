@@ -145,6 +145,11 @@ Teach copy cataloging, original cataloging, Ex Libris Alma, OCLC Connexion, subj
 * Mentor iSchool MLIS student Melissa Morgan
 * Review output from conversion process, mentoring student in RDA, RDA/RDF, BIBFRAME, and the requirements of the Sinopia Linked Data Editor
 
+## Affiliations
+
+### 2026-Present	Affiliate: [Center for Advances in Libraries, Archives, and Museums (CALMA)](https://calma.ischool.uw.edu/about-calma/)
+* University of Washington Information School
+
 ## RESEARCH EXPERIENCE
 
 ### 2021-Present	Project Supervisor: [MARC21 to RDA-RDF Mapping Project](https://github.com/uwlib-cams/MARC2RDA)
