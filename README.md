@@ -34,7 +34,11 @@ Cataloging | Metadata | RDA | BIBFRAME | Linked Data | Ethics in Metadata | Wiki
 ### Professional Training and Workshops
 
 #### Official RDA in a Wikibase Cloud Sandbox [online] (November 2026)
+* Co-facilitated with MLIS student Ellie Petersen
 * Semantic Web in Libraries Conference 2026 (SWIB 2026)
+
+#### [Cataloging with Official RDA in Wikibase Cloud](https://2026ld4.sched.com/event/2XIPW/cataloging-with-official-rda-in-wikibase-cloud) [online] (October 2026)
+* LD4 Conference on Linked Data, October 2026
 
 #### Jumpstart Inclusive Cataloging: Homosaurus Section [online] (April 2026)
 * Library Journal & School Library Journal Professional Development
