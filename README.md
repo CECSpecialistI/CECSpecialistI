@@ -16,14 +16,20 @@
 
 ## AREAS OF TEACHING QUALIFICATION
 
-Cataloging | Metadata | RDA | BIBFRAME | Linked Data | Ethics in Metadata | Wikimedia | Rare Materials | Controlled Vocabularies | Ontologies | Data Modeling | Metadata Design | AI in Knowledge Organization | Project Management | Technical Communication | Entity/Identity Management | Special Collections | Archives | Archival Metadata | Academic Librarianship | Library Management
+Cataloging | Metadata | RDA | BIBFRAME | Linked Data | Ethics in Metadata | Wikimedia | Rare Materials | Controlled Vocabularies | Ontologies | Data Modeling | Metadata Design | AI in Knowledge Organization | Project Management | Technical Communication | Entity/Identity Management | Special Collections | Archives | Archival Metadata | Academic Librarianship | Library Management | Taxonomy and Indexing
 
 ## TEACHING EXPERIENCE
 
 ### 2026-Present	Assistant Teaching Professor
 * University of Washington Information School
+#### Instructor:
+* Taxonomy and Indexing Construction [in-person] (Spring 2027)
+* Authority Control and Entity Management in Libraries, Archives, and Museums [online] (Winter 2027)
+* Organization of Information and Resources [in-person] (Winter 2027)
 * Academic Librarianship [in-person] (Autumn 2026)
 * Catalogs, Cataloging, and Classification [online] (Autumn 2026)
+#### Guest Lecturer:
+* Metadata Design [in-person] (Autumn 2026)
 
 ### Spring 2025	Guest Faculty
 * University of Washington Information School
@@ -38,7 +44,7 @@ Cataloging | Metadata | RDA | BIBFRAME | Linked Data | Ethics in Metadata | Wiki
 * Semantic Web in Libraries Conference 2026 (SWIB 2026)
 
 #### [Cataloging with Official RDA in Wikibase Cloud](https://2026ld4.sched.com/event/2XIPW/cataloging-with-official-rda-in-wikibase-cloud) [online] (October 2026)
-* LD4 Conference on Linked Data, October 2026
+* LD4 Conference on Linked Data, September 2026
 
 #### Jumpstart Inclusive Cataloging: Homosaurus Section [online] (April 2026)
 * Library Journal & School Library Journal Professional Development
@@ -53,7 +59,7 @@ Cataloging | Metadata | RDA | BIBFRAME | Linked Data | Ethics in Metadata | Wiki
 ### Student Project Mentorship
 
 #### 2021-Present	MARC21 Bibliographic to LRM/RDA/RDF Mapping and Transformation Project
-* Students: Zhuo Pan, Melissa Morgan, Alice Chung, Cypress Payne, Pengyan Sun, Ying-Hsiang Huang, Doreen Chen, Sara Hruska, Tynan Challenor, Sarah Collins, Abhignya Rajapu, Dana Anderson, Emily Backstrom, Ellie Petersen
+* Students: Zhuo Pan, Melissa Morgan, Alice Chung, Cypress Payne, Pengyan Sun, Ying-Hsiang Huang, Doreen Chen, Sara Hruska, Tynan Challenor, Sarah Collins, Abhignya Rajapu, Dana Anderson, Emily Backstrom, Ellie Petersen, Cerberus Forbes
 
 #### 2019-2026	Student Directed Fieldwork
 ##### Science Cataloging (2026)
@@ -172,11 +178,11 @@ Facilitate weekly working meetings with participants across the United States, C
 * Author a new [Wikidata policy on Personal Pronouns](https://www.wikidata.org/wiki/Wikidata:Personal_pronouns) after establishing community consensus on a [Request for Comment](https://www.wikidata.org/wiki/Wikidata:Requests_for_comment/Pronouns_P6553)
 * Lead implementation of new policy and data model alongside Prof. Dr. Clair Kronk
 
-### 2025-2026	Co-coordinator: [Homosaurus Implementation Project (HIP)](https://www.orbiscascade.org/programs/scts/technical-services/csg/homosaurus-implementation-project/)
+### 2025-Present	[Homosaurus Implementation Project (HIP)](https://www.orbiscascade.org/programs/scts/technical-services/csg/homosaurus-implementation-project/)
 * Orbis Cascade Alliance
 * Coordinate the HIP project alongside Co-Coordinator Lauren Rickel in its first year as a standalone Orbis Cascade Alliance Project
 * Consortium-wide project to retrospectively enhance bibliographic records in the shared catalog with Homosaurus terms. Batches of records systematically enhanced with Homosaurus terms by over fifty Alliance volunteers with varying experience levels
-* Serve as liaison between project and the Homosaurus Collective's Implementation Board
+* Serve as liaison between project and the Homosaurus Collective's Implementation Board (2026-Present)
 * Facilitate coordination between project and SACO Gender and Sexuality Funnel Project
 
 ### 2023-2025	Chair: Homosaurus Implementation Project (HIP)
@@ -332,6 +338,14 @@ Contribute to the UW Libraries and the profession through productive service in 
 	
 ### National/International Presentations
 
+#### 2026		Phase II Update: MARC21 Bibliographic to LRM/RDA/RDF Mapping and Transformation Project. ALA CORE Bibliographic Conceptual Models Interest Group Fall Event. November 12, 2026.
+
+#### 2026		IMAC/EMCO Update. Program for Cooperative Cataloging Policy Committee November Meeting. November 12, 2026.
+
+#### 2026		EMCO Lightning Round Session. Program for Cooperative Cataloging Entity Management Cooperative Program Event. September 23, 2026. (facilitator)
+
+#### 2026		Presentation of Discussion Paper No. 2026-DP08: Adding Subfield $5 to Field 340 in the MARC21 Bibliographic Format. MARC Advisory Committee Meeting. July 22, 	2026.
+
 #### 2026		The Homosaurus: From Board to Collective. Gender and Sexuality in Information Studies Colloquium. June 17, 2026 (co-presenter with B. M. Watson, Keahi Adolpho, Chloe Noland, Irina Rogova, Lia Ryland, Julia Bullard, Rachel Newlin, and D. St. Amour)
 
 #### 2026		Navigating Authority Work In These Times. Gender and Sexuality in Information Studies Colloquium. June 17, 2026 (co-presenter with Puck Malamud, Chloe Misorski, Mary Cornell, and Lia Ryland)
@@ -462,6 +476,8 @@ Contribute to the UW Libraries and the profession through productive service in 
 
 ### Publications: Editor
 
+#### 2026-		Homoletter. The Official Homosaurus Collective Newsletter. (part of editorial team)
+
 #### 2025-2026	The Order of Things. UW Libraries Cataloging and Metadata Services Department (CAMS) Blog.
 
 ### Publications: Peer Reviewer
@@ -469,6 +485,12 @@ Contribute to the UW Libraries and the profession through productive service in 
 #### 2023	Watson, B. Provo, A. Burlingame, K. (Eds.) Ethics in Linked Data, Library Juice Press. 2023
 
 ## TRAINING
+
+### 2026		Teaching@UW: New Faculty Program
+* University of Washington Center for Teaching and Learning
+
+### 2026		Introduction to UW's Elements of Effective Teaching
+* University of Washington Center for Teaching and Learning
 
 ### 2026		XSLT Fundamentals
 * Library Juice Academy
@@ -573,14 +595,15 @@ Contribute to the UW Libraries and the profession through productive service in 
 #### 2025-Present 	International Federation of Library Associations and Institutions (IFLA)
 * Affiliate
 * Bibliographic Conceptual Models (BCM) Review Group
-  * Co-Opted Member (2025-Present)
+  * Co-opted Member (2025-Present)
 
 #### 2025-Present	Homosaurus Collective
-* Implementation Board Member
+* Implementation Board Co-convenor
 * ALA Core Subject Analysis Committee (SAC) liaison
 
 #### 2022-Present	Co-Chair: [PCC Identity Management Advisory Committee (IMAC)](https://wiki.lyrasis.org/display/PFCCP/Identity+Management+Advisory+Committee) 
 * Reports:
+  * 2025-2026 IMAC Activity Report, October 24, 2026
   * [2024-2025 IMAC Activity Report](https://wiki.lyrasis.org/download/attachments/311558264/2025-11%20IMAC%20Activity%20Report%20for%20PoCo.pdf?version=1&modificationDate=1767832677653&api=v2), November 4, 2025
   * [2025-2026 IMAC Work Plan](https://wiki.lyrasis.org/download/attachments/311558264/2025-04%20IMAC%20Work%20Plan%20for%20PoCo.pdf?version=1&modificationDate=1746800109359&api=v2), April 15, 2025
   * [2023-2024 IMAC Activity Report](https://wiki.lyrasis.org/download/attachments/311558264/2024-10%20IMAC%20Activity%20Report%20for%20PoCo.pdf?version=1&modificationDate=1746800339420&api=v2), October 21, 2024
@@ -672,7 +695,7 @@ Communication with technical and non-technical audiences | MARC21 Bibliographic 
 
 ### General Skills
 
-Teaching | Mentorship | Training | Coaching | Facilitation | Emotional intelligence | Interpersonal communication | Technical Communication | Collaboration | Team building | Project management | Documentation | Strategic thinking
+Teaching | Mentorship | Training | Coaching | Facilitation | Emotional intelligence | Interpersonal communication | Technical Communication | Collaboration | Team building | Project management | Documentation | Strategic thinking | Career advising
 
 ## Languages
 * Native: English
